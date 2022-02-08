@@ -1,0 +1,1390 @@
+﻿date_pick_up,time_pick_up,trap_id,bait_type,trap_type,species,number_individuals,rainfall_setup_date_mm,rainfall_pickup_date_mm,habitat
+7/8/17,14:30:00,AT3,Howler monkey dung,AT,Canthon sp aff quadriguttatus,1,0,0,Terra Firme
+7/8/17,14:30:00,AT3,Howler monkey dung,AT,Canthon sp R,1,0,0,Terra Firme
+7/8/17,14:30:00,AT3,Howler monkey dung,AT,Canthon femoralis bimaculatus,2,0,0,Terra Firme
+7/8/17,14:30:00,AT3,Howler monkey dung,AT,Canthon sp aff angustatus,1,0,0,Terra Firme
+7/8/17,14:30:00,AT4,Howler monkey dung,AT,Canthon sp aff quadriguttatus,1,0,0,Terra Firme
+7/8/17,14:30:00,AT4,Howler monkey dung,AT,Canthon femoralis bimaculatus,1,0,0,Terra Firme
+7/8/17,14:30:00,AT4,Howler monkey dung,AT,Canthon sp F,1,0,0,Terra Firme
+7/8/17,14:30:00,AT4,Howler monkey dung,AT,Canthon sp R,1,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Phanaeus chalcomelas,1,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Phanaeus cambeforti,1,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Dichotomius melzeri,1,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Dichotomius conicollis,1,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Canthon luteicollis,9,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Canthon aequinoctialis,14,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Canthidium sp aff cupreum,26,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Onthophagus onorei,5,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Onthophagus haematopus,11,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Canthidium histrio,1,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Canthidium bicolor,5,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Scybalocanthon sp C,1,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Canthidium gerstaeckeri,1,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Canthonella sp A,2,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Canthonella sp D,1,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Scybalocanthon sp K,1,0,0,Terra Firme
+7/8/17,14:30:00,PT3,Howler monkey dung,PT,Canthidium aff funebre,9,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Canthon aequinoctialis,3,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Eurysternus sp nov A,2,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Dichotomius prietoi,1,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Sylvicanthon bridarollii,67,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Canthidium bicolor,12,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Canthon luteicollis,5,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Canthidium discolor,3,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Canthidium histrio,10,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Canthidium aff funebre,2,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Canthon monilifer,8,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Dichotomius batesi,4,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Dichotomius mamillatus,1,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Phanaeus cambeforti,3,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Phanaeus chalcomelas,1,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Canthon sp aff quadriguttatus,1,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Canthon femoralis bimaculatus,5,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Onthophagus haematopus,5,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Onthophagus onorei,10,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Uroxys sp D,7,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,No ID,1,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,No ID,1,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Canthidium sp,1,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Sylvicanthon bridarollii,1,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,Canthidium gerstaeckeri,1,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,No ID,1,0,0,Terra Firme
+7/8/17,14:30:00,PT4,Howler monkey dung,PT,No ID,2,0,0,Terra Firme
+7/11/17,13:30:00,AT1,Howler monkey dung,AT,Canthon femoralis bimaculatus,5,13.9,0.2,Terra Firme
+7/11/17,13:30:00,AT1,Howler monkey dung,AT,Canthon sp aff angustatus,2,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Dichotomius melzeri,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Canthon femoralis bimaculatus,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Canthidium aff funebre,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Canthon aequinoctialis,2,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Dichotomius batesi,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Canthon sp aff angustatus,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Canthon discolor,3,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Canthon histrio,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Canthidium sp T,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Canthon aff cupreum,4,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Canthon bicolor,5,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Onthophagus haematopus,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Canthonella sp A,2,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,Canthonella sp D,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT1,Howler monkey dung,PT,C sp U,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,AT6,Howler monkey dung,AT,Canthon femoralis bimaculatus,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,AT6,Howler monkey dung,AT,Canthon sp aff quadriguttatus,2,13.9,0.2,Terra Firme
+7/11/17,13:30:00,AT6,Howler monkey dung,AT,Canthon sp aff angustatus,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Canthon aequinoctialis,4,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Canthidium histrio,4,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Canthon discolor,15,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Eurysternus caribaeus,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Dichotomius melzeri,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Dichotomius ohausi,2,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Canthon luteicollis,2,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Canthonella sp A,2,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Canthonella sp D,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Canthidium bicolor,6,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Canthidium aff funebre,6,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Canthidium sp aff cupreum,2,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Uroxys sp K,16,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Onthophagus onorei,11,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Onthophagus ophion,4,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Onthophagus haematopus,5,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Canthidium sp aff quadridens,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Canthidium cf globulum,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Canthon sp aff angustatus,4,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,Anomiopus andrei,6,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT6,Howler monkey dung,PT,No ID,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,AT2,Howler monkey dung,AT,Canthon femoralis bimaculatus,3,13.9,0.2,Terra Firme
+7/11/17,13:30:00,AT2,Howler monkey dung,AT,Canthon sp aff quadriguttatus,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,AT2,Howler monkey dung,AT,Canthon subhyalinus,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,AT2,Howler monkey dung,AT,Canthon sp aff angustatus,4,13.9,0.2,Terra Firme
+7/11/17,13:30:00,AT2,Howler monkey dung,AT,Canthon sp aff angustatus,2,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Dichotomius melzeri,3,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Dichotomius conicollis,4,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Phanaeus cambeforti,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Canthidium aff funebre,11,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Canthon luteicollis,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Canthidium histrio,8,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Canthidium sp aff cupreum,3,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Onthophagus onorei,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Canthon sp aff angustatus,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Scybalocanthon aereus,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Canthon subhyalinus,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Ateuchus sp D,11,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Uroxys sp K,4,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Canthonella sp A,2,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Canthonella sp D,1,13.9,0.2,Terra Firme
+7/11/17,13:30:00,PT2,Howler monkey dung,PT,Canthon bicolor,3,13.9,0.2,Terra Firme
+7/12/17,13:45:00,PT1,Howler monkey dung,PT,Dichotomius melzeri,3,13.9,0,Terra Firme
+7/12/17,13:45:00,PT1,Howler monkey dung,PT,Canthon aequinoctialis,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT1,Howler monkey dung,PT,Dichotomius ohausi,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT1,Howler monkey dung,PT,Canthidium sp aff cupreum,2,13.9,0,Terra Firme
+7/12/17,13:45:00,PT1,Howler monkey dung,PT,Canthidium bicolor,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT1,Howler monkey dung,PT,Canthonella sp D,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT1,Howler monkey dung,PT,Canthidium sp aff funebre,2,13.9,0,Terra Firme
+7/12/17,13:45:00,PT1,Howler monkey dung,PT,Canthon subhyalinus,2,13.9,0,Terra Firme
+7/12/17,13:45:00,PT1,Howler monkey dung,PT,Onthophagus haematopus,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT1,Howler monkey dung,PT,Onthophagus onorei,2,13.9,0,Terra Firme
+7/12/17,13:45:00,PT1,Howler monkey dung,PT,Uroxys sp K,4,13.9,0,Terra Firme
+7/12/17,13:45:00,PT1,Howler monkey dung,PT,Canthidium discolor,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Dichotomius melzeri,8,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Dichotomius prietoi,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Dichotomius conicollis,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Dichotomius mamillatus,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Phanaeus cambeforti,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Canthidium sp aff funebre,13,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Canthon luteicollis,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Canthidium sp aff cupreum,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Canthon sp aff angustatus,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Canthon bicolor,4,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Canthidium sp aff histrio,3,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Canthidium discolor,2,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Uroxys sp K,4,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Onthophagus haematopus,2,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Canthidium gerstaeckeri,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT2,Howler monkey dung,PT,Ateuchus sp aff pygidalis,1,13.9,0,Terra Firme
+7/12/17,13:45:00,AT6,Howler monkey dung,AT,Canthidium sp G,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,Dichotomius melzeri,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,Canthon aequinoctialis,3,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,Canthidium discolor,9,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,Uroxys sp K,9,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,Canthon sp aff histrio,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,Canthidium sp aff funebre,2,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,Canthon subhyalinus,2,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,Canthidium bicolor,3,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,Canthonella sp A,2,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,Canthonella sp D,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,Onthophagus onorei,2,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,Uroxys sp D,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,Phanaeus cambeforti,1,13.9,0,Terra Firme
+7/12/17,13:45:00,PT6,Howler monkey dung,PT,No ID,1,13.9,0,Terra Firme
+7/14/17,13:47:00,AT7,Howler monkey dung,AT,Canthon femoralis bimaculatus,19,0,0,Flood Plain
+7/14/17,13:47:00,AT7,Howler monkey dung,AT,Canthon sp aff quadriguttatus,2,0,0,Flood Plain
+7/14/17,13:47:00,AT7,Howler monkey dung,AT,Canthon sp aff angustatus,2,0,0,Flood Plain
+7/14/17,13:47:00,AT7,Howler monkey dung,AT,Canthon semiopacus,2,0,0,Flood Plain
+7/14/17,13:47:00,AT7,Howler monkey dung,AT,Canthon rubrescens,2,0,0,Flood Plain
+7/14/17,13:47:00,AT8,Howler monkey dung,AT,Canthon femoralis bimaculatus,4,0,0,Flood Plain
+7/14/17,13:47:00,AT8,Howler monkey dung,AT,Canthon sp aff quadriguttatus,4,0,0,Flood Plain
+7/14/17,13:47:00,AT8,Howler monkey dung,AT,Canthon sp aff angustatus,1,0,0,Flood Plain
+7/14/17,13:47:00,AT8,Howler monkey dung,AT,Canthon rubrescens,8,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Canthon luteicollis,2,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Canthon aequinoctialis,3,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Deltochilum peruanum,1,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Eurysternus caribaeus,3,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Oxysternon silenus,1,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Phanaeus cambeforti,1,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Phanaeus chalcomelas,1,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Canthon discolor,1,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Canthidium sp aff cupreum,6,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Canthidium gerstaeckeri,2,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Onthophagus rhinophyllus,2,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Canthidium cf onitoides,1,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Onthophagus onorei,2,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Onthophagus haematopus,1,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Dichotomius sp aff lucasi,2,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Scybalocanthon aereus,2,0,0,Flood Plain
+7/14/17,13:47:00,PT7,Howler monkey dung,PT,Dichotomius robustus,1,0,0,Flood Plain
+7/14/17,13:47:00,PT8,Howler monkey dung,PT,Dichotomius ohausi,1,0,0,Flood Plain
+7/14/17,13:47:00,PT8,Howler monkey dung,PT,Canthon luteicollis,1,0,0,Flood Plain
+7/14/17,13:47:00,PT8,Howler monkey dung,PT,Sylvicanthon bridarollii,1,0,0,Flood Plain
+7/14/17,13:47:00,PT8,Howler monkey dung,PT,Canthidium histrio,1,0,0,Flood Plain
+7/14/17,13:47:00,PT8,Howler monkey dung,PT,Onthophagus ophion,1,0,0,Flood Plain
+7/14/17,13:47:00,PT8,Howler monkey dung,PT,Ateuchus sp,3,0,0,Flood Plain
+7/15/17,13:25:00,AT7,Howler monkey dung,AT,Canthon femoralis bimaculatus,1,0,0,Flood Plain
+7/15/17,13:25:00,AT7,Howler monkey dung,AT,Canthon semiopacus,1,0,0,Flood Plain
+7/15/17,13:25:00,AT7,Howler monkey dung,AT,Canthon sp aff angustatus,1,0,0,Flood Plain
+7/15/17,13:25:00,AT8,Howler monkey dung,AT,Canthon femoralis bimaculatus,4,0,0,Flood Plain
+7/15/17,13:25:00,AT8,Howler monkey dung,AT,Canthon semiopacus,1,0,0,Flood Plain
+7/15/17,13:25:00,AT8,Howler monkey dung,AT,Canthon sp aff quadriguttatus,1,0,0,Flood Plain
+7/15/17,13:25:00,PT7,Howler monkey dung,PT,Eurysternus sp nov A,2,0,0,Flood Plain
+7/15/17,13:25:00,PT7,Howler monkey dung,PT,Eurysternus caribaeus,2,0,0,Flood Plain
+7/15/17,13:25:00,PT7,Howler monkey dung,PT,Dichotomius conicollis,1,0,0,Flood Plain
+7/15/17,13:25:00,PT7,Howler monkey dung,PT,Canthidium discolor,1,0,0,Flood Plain
+7/15/17,13:25:00,PT7,Howler monkey dung,PT,Canthidium sp aff gerstaeckeri,1,0,0,Flood Plain
+7/15/17,13:25:00,PT7,Howler monkey dung,PT,Onthophagus sp,1,0,0,Flood Plain
+7/15/17,13:25:00,PT7,Howler monkey dung,PT,Ateuchus sp,2,0,0,Flood Plain
+7/15/17,13:25:00,PT7,Howler monkey dung,PT,Canthidium sp nov aff gigas,1,0,0,Flood Plain
+7/15/17,13:25:00,PT8,Howler monkey dung,PT,Canthidium discolor,1,0,0,Flood Plain
+7/15/17,13:25:00,PT8,Howler monkey dung,PT,C sp M,1,0,0,Flood Plain
+7/15/17,13:25:00,PT8,Howler monkey dung,PT,Canthon sp,1,0,0,Flood Plain
+7/18/17,7:50:00,AT3,Howler monkey dung,AT,Canthon femoralis bimaculatus,1,0,0,Terra Firme
+7/18/17,7:50:00,AT3,Howler monkey dung,AT,Canthon sp aff quadriguttatus,1,0,0,Terra Firme
+7/18/17,7:50:00,PT3,Howler monkey dung,PT,Phanaeus chalcomelas,1,0,0,Terra Firme
+7/18/17,7:50:00,PT3,Howler monkey dung,PT,Phanaeus cambeforti,2,0,0,Terra Firme
+7/18/17,7:50:00,PT3,Howler monkey dung,PT,Canthon luteicollis,2,0,0,Terra Firme
+7/18/17,7:50:00,PT3,Howler monkey dung,PT,Canthidium sp aff funebre,5,0,0,Terra Firme
+7/18/17,7:50:00,PT3,Howler monkey dung,PT,Canthidium sp aff cupreum,4,0,0,Terra Firme
+7/18/17,7:50:00,PT3,Howler monkey dung,PT,Ateuchus aeneomicans,1,0,0,Terra Firme
+7/18/17,7:50:00,PT3,Howler monkey dung,PT,Canthonella sp D,1,0,0,Terra Firme
+7/18/17,7:50:00,PT3,Howler monkey dung,PT,Canthidium nr ruficolle,1,0,0,Terra Firme
+7/18/17,7:50:00,AT4,Howler monkey dung,AT,Canthon femoralis bimaculatus,4,0,0,Terra Firme
+7/18/17,7:50:00,AT4,Howler monkey dung,AT,Canthon sp aff quadriguttatus,3,0,0,Terra Firme
+7/18/17,7:50:00,PT4,Howler monkey dung,PT,Canthidium bicolor,9,0,0,Terra Firme
+7/18/17,7:50:00,PT4,Howler monkey dung,PT,Phanaeus cambeforti,1,0,0,Terra Firme
+7/18/17,7:50:00,PT4,Howler monkey dung,PT,Canthidium sp aff cupreum,8,0,0,Terra Firme
+7/18/17,7:50:00,PT4,Howler monkey dung,PT,Canthidium sp aff funebre,1,0,0,Terra Firme
+7/18/17,7:50:00,PT4,Howler monkey dung,PT,Canthon luteicollis,5,0,0,Terra Firme
+7/18/17,7:50:00,PT4,Howler monkey dung,PT,Onthophagus haematopus,1,0,0,Terra Firme
+7/18/17,7:50:00,PT4,Howler monkey dung,PT,Onthophagus onorei,2,0,0,Terra Firme
+7/18/17,7:50:00,PT4,Howler monkey dung,PT,Canthon semiopacus,1,0,0,Terra Firme
+7/18/17,13:45:00,AT1,Howler monkey dung,AT,Canthon femoralis bimaculatus,1,0,0,Terra Firme
+7/18/17,13:45:00,PT1,Howler monkey dung,PT,Canthidium sp aff funebre,1,0,0,Terra Firme
+7/18/17,13:45:00,PT1,Howler monkey dung,PT,Canthidium sp aff cupreum,1,0,0,Terra Firme
+7/18/17,13:45:00,PT1,Howler monkey dung,PT,Canthidium sp aff gerstaeckeri,1,0,0,Terra Firme
+7/18/17,13:45:00,PT1,Howler monkey dung,PT,Canthonella sp A,1,0,0,Terra Firme
+7/18/17,13:45:00,PT1,Howler monkey dung,PT,Canthonella sp D,2,0,0,Terra Firme
+7/18/17,13:45:00,PT1,Howler monkey dung,PT,Canthidium bicolor,12,0,0,Terra Firme
+7/18/17,13:45:00,PT1,Howler monkey dung,PT,Onthophagus onorei,9,0,0,Terra Firme
+7/18/17,13:45:00,PT1,Howler monkey dung,PT,Onthophagus haematopus,5,0,0,Terra Firme
+7/18/17,13:45:00,AT6,Howler monkey dung,AT,Canthon sp aff quadriguttatus,1,0,0,Terra Firme
+7/18/17,13:45:00,PT6,Howler monkey dung,PT,Canthidium bicolor,2,0,0,Terra Firme
+7/19/17,7:50:00,PT4,Howler monkey dung,PT,Phanaeus cambeforti,1,0,0,Terra Firme
+7/19/17,12:57:00,PT1,Howler monkey dung,PT,Canthon sp aff angustatus,1,0,0,Terra Firme
+7/19/17,12:57:00,AT6,Howler monkey dung,AT,Canthon femoralis bimaculatus,1,0,0,Terra Firme
+7/19/17,12:57:00,PT6,Howler monkey dung,PT,Canthidium sp aff cupreum,1,0,0,Terra Firme
+7/21/17,13:55:00,AT7,Howler monkey dung,AT,Canthon sp aff angustatus,1,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Phanaeus cambeforti,1,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Canthon luteicollis,5,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Canthon femoralis bimaculatus,1,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Canthidium gerstaeckeri,1,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Canthidium cf onitoides,2,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Canthidium discolor,1,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Canthidium sp aff cupreum,4,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Onthophagus rhinophyllus,2,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Scybalocanthon sp C,1,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Scybalocanthon sp K,1,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Scybalocanthon aereus,3,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Canthon sp aff angustatus,2,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Dichotomius batesi,1,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Ateuchus sp D,1,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Scybalocanthon zischkai,1,0,0,Flood Plain
+7/21/17,13:55:00,PT7,Howler monkey dung,PT,Onthophagus onorei,1,0,0,Flood Plain
+7/21/17,13:55:00,AT8,Howler monkey dung,AT,Canthon femoralis bimaculatus,13,0,0,Flood Plain
+7/21/17,13:55:00,AT8,Howler monkey dung,AT,Canthon sp aff quadriguttatus,1,0,0,Flood Plain
+7/21/17,13:55:00,PT8,Howler monkey dung,PT,Sylvicanthon bridarollii,12,0,0,Flood Plain
+7/21/17,13:55:00,PT8,Howler monkey dung,PT,Canthon luteicollis,5,0,0,Flood Plain
+7/21/17,13:55:00,PT8,Howler monkey dung,PT,Canthon femoralis bimaculatus,3,0,0,Flood Plain
+7/21/17,13:55:00,PT8,Howler monkey dung,PT,Scybalocanthon sp C,1,0,0,Flood Plain
+7/21/17,13:55:00,PT8,Howler monkey dung,PT,Scybalocanthon zischkai,2,0,0,Flood Plain
+7/21/17,13:55:00,PT8,Howler monkey dung,PT,Onthophagus onorei,2,0,0,Flood Plain
+7/21/17,13:55:00,PT8,Howler monkey dung,PT,Onthophagus haematopus,1,0,0,Flood Plain
+7/21/17,13:55:00,PT8,Howler monkey dung,PT,Canthon subhyalinus,2,0,0,Flood Plain
+7/21/17,13:55:00,AT9,Howler monkey dung,AT,Canthon femoralis bimaculatus,3,0,0,Flood Plain
+7/21/17,13:55:00,PT9,Howler monkey dung,PT,Sylvicanthon bridarollii,4,0,0,Flood Plain
+7/21/17,13:55:00,PT9,Howler monkey dung,PT,Canthon luteicollis,4,0,0,Flood Plain
+7/21/17,13:55:00,PT9,Howler monkey dung,PT,Scybalocanthon sp C,3,0,0,Flood Plain
+7/21/17,13:55:00,PT9,Howler monkey dung,PT,Scybalocanthon aereus,1,0,0,Flood Plain
+7/21/17,13:55:00,PT9,Howler monkey dung,PT,Scybalocanthon sp F,2,0,0,Flood Plain
+7/21/17,13:55:00,PT9,Howler monkey dung,PT,Canthidium sp aff cupreum,3,0,0,Flood Plain
+7/21/17,13:55:00,PT9,Howler monkey dung,PT,Ateuchus sp,2,0,0,Flood Plain
+7/21/17,13:55:00,PT9,Howler monkey dung,PT,Canthidium cf basipunctatum,1,0,0,Flood Plain
+7/21/17,13:55:00,PT9,Howler monkey dung,PT,No ID,1,0,0,Flood Plain
+7/21/17,13:55:00,PT9,Howler monkey dung,PT,No ID,1,0,0,Flood Plain
+7/21/17,13:55:00,PT9,Howler monkey dung,PT,No ID,1,0,0,Flood Plain
+7/22/17,13:50:00,PT7,Howler monkey dung,PT,Canthidium sp D,1,0,0,Flood Plain
+7/22/17,13:50:00,PT7,Howler monkey dung,PT,Canthonella sp D,1,0,0,Flood Plain
+7/22/17,13:50:00,PT7,Howler monkey dung,PT,Phanaeus cambeforti,1,0,0,Flood Plain
+7/22/17,13:50:00,PT7,Howler monkey dung,PT,Oxysternon spiniferum,1,0,0,Flood Plain
+7/22/17,13:50:00,PT7,Howler monkey dung,PT,Canthidium sp aff cupreum,2,0,0,Flood Plain
+7/22/17,13:50:00,PT7,Howler monkey dung,PT,Dichotomius batesi,4,0,0,Flood Plain
+7/22/17,13:50:00,PT7,Howler monkey dung,PT,Dichotomius melzeri,1,0,0,Flood Plain
+7/22/17,13:50:00,PT7,Howler monkey dung,PT,Dichotomius prietoi,1,0,0,Flood Plain
+7/22/17,13:50:00,PT7,Howler monkey dung,PT,Dichotomius conicollis,1,0,0,Flood Plain
+7/22/17,13:50:00,PT7,Howler monkey dung,PT,Scybalocanthon sp K,1,0,0,Flood Plain
+7/22/17,13:50:00,AT8,Howler monkey dung,AT,Canthon femoralis bimaculatus,4,0,0,Flood Plain
+7/22/17,13:50:00,AT8,Howler monkey dung,AT,No ID,1,0,0,Flood Plain
+7/22/17,13:50:00,PT8,Howler monkey dung,PT,Eurysternus caribaeus,2,0,0,Flood Plain
+7/22/17,13:50:00,PT8,Howler monkey dung,PT,Eurysternus sp nov A,2,0,0,Flood Plain
+7/22/17,13:50:00,PT8,Howler monkey dung,PT,Sylvicanthon bridarollii,4,0,0,Flood Plain
+7/22/17,13:50:00,PT8,Howler monkey dung,PT,Canthon luteicollis,1,0,0,Flood Plain
+7/22/17,13:50:00,PT8,Howler monkey dung,PT,Dichotomius mamillatus,1,0,0,Flood Plain
+7/22/17,13:50:00,PT8,Howler monkey dung,PT,Canthon coloratus,1,0,0,Flood Plain
+7/22/17,13:50:00,PT9,Howler monkey dung,PT,Canthon luteicollis,1,0,0,Flood Plain
+7/22/17,13:50:00,PT9,Howler monkey dung,PT,Eurysternus sp nov A,1,0,0,Flood Plain
+7/22/17,13:50:00,PT9,Howler monkey dung,PT,Onthophagus onorei,1,0,0,Flood Plain
+7/22/17,13:50:00,PT9,Howler monkey dung,PT,Canthidium cf globulum,1,0,0,Flood Plain
+7/22/17,13:50:00,PT9,Howler monkey dung,PT,Canthidium escalerei,1,0,0,Flood Plain
+7/25/17,13:43:00,PT3,Spider monkey dung,PT,Canthon luteicollis,2,0,0,Terra Firme
+7/25/17,13:43:00,PT3,Spider monkey dung,PT,Scybalocanthon sp C,1,0,0,Terra Firme
+7/25/17,13:43:00,PT3,Spider monkey dung,PT,Canthidium gerstaeckeri,1,0,0,Terra Firme
+7/25/17,13:43:00,PT4,Spider monkey dung,PT,Canthon luteicollis,2,0,0,Terra Firme
+7/25/17,13:43:00,PT4,Spider monkey dung,PT,Canthidium bicolor,2,0,0,Terra Firme
+7/25/17,13:43:00,PT4,Spider monkey dung,PT,Canthonella sp D,1,0,0,Terra Firme
+7/25/17,13:43:00,PT4,Spider monkey dung,PT,Canthidium sp aff cupreum,3,0,0,Terra Firme
+7/25/17,13:43:00,PT4,Spider monkey dung,PT,Canthon semiopacus,1,0,0,Terra Firme
+7/25/17,13:43:00,PT4,Spider monkey dung,PT,Canthidium sp aff histrio,2,0,0,Terra Firme
+7/25/17,13:43:00,PT4,Spider monkey dung,PT,Dichotomius batesi,1,0,0,Terra Firme
+7/25/17,13:43:00,PT4,Spider monkey dung,PT,Uroxys sp D,1,0,0,Terra Firme
+7/25/17,13:43:00,PT5,Spider monkey dung,PT,Eurysternus sp nov A,1,0,0,Terra Firme
+7/25/17,13:43:00,PT5,Spider monkey dung,PT,Canthonella sp D,1,0,0,Terra Firme
+7/25/17,13:43:00,PT5,Spider monkey dung,PT,Canthidium bicolor,2,0,0,Terra Firme
+7/26/17,14:45:00,PT3,Spider monkey dung,PT,Eurysternus sp nov A,1,0,0,Terra Firme
+7/26/17,14:45:00,PT3,Spider monkey dung,PT,Canthonella sp D,1,0,0,Terra Firme
+7/26/17,14:45:00,PT4,Spider monkey dung,PT,Canthidium bicolor,1,0,0,Terra Firme
+7/26/17,14:45:00,PT5,Spider monkey dung,PT,Canthonella sp D,1,0,0,Terra Firme
+7/28/17,14:13:00,AT10,Howler monkey dung,AT,Canthon femoralis bimaculatus,3,0,1.3,Flood Plain
+7/28/17,14:13:00,AT10,Howler monkey dung,AT,Canthon sp aff quadriguttatus,1,0,1.3,Flood Plain
+7/28/17,14:13:00,PT10,Howler monkey dung,PT,Dichotomius batesi,1,0,1.3,Flood Plain
+7/28/17,14:13:00,PT10,Howler monkey dung,PT,Dichotomius sp aff lucasi,2,0,1.3,Flood Plain
+7/28/17,14:13:00,PT10,Howler monkey dung,PT,Onthophagus haematopus,2,0,1.3,Flood Plain
+7/28/17,14:13:00,PT10,Howler monkey dung,PT,Canthidium sp aff cupreum,1,0,1.3,Flood Plain
+7/28/17,14:13:00,PT10,Howler monkey dung,PT,No ID,1,0,1.3,Flood Plain
+7/28/17,14:22:00,AT11,Howler monkey dung,AT,Canthon femoralis bimaculatus,2,0,1.3,Flood Plain
+7/28/17,14:22:00,AT11,Howler monkey dung,AT,Canthon sp aff angustatus,1,0,1.3,Flood Plain
+7/28/17,14:22:00,AT11,Howler monkey dung,AT,Ateuchus sp C,1,0,1.3,Flood Plain
+7/28/17,14:22:00,PT11,Howler monkey dung,PT,Canthon luteicollis,1,0,1.3,Flood Plain
+7/28/17,14:22:00,PT11,Howler monkey dung,PT,Eurysternus caribaeus,1,0,1.3,Flood Plain
+7/28/17,14:22:00,PT11,Howler monkey dung,PT,Eurysternus sp nov A,1,0,1.3,Flood Plain
+7/28/17,14:22:00,PT11,Howler monkey dung,PT,Canthidium cf onitoides,1,0,1.3,Flood Plain
+7/28/17,14:22:00,PT11,Howler monkey dung,PT,Onthophagus haematopus,3,0,1.3,Flood Plain
+7/28/17,14:22:00,PT11,Howler monkey dung,PT,Onthophagus onorei,1,0,1.3,Flood Plain
+7/28/17,14:22:00,PT11,Howler monkey dung,PT,Onthophagus onthochromus,1,0,1.3,Flood Plain
+7/28/17,14:22:00,PT11,Howler monkey dung,PT,Canthidium gasipunctatum,1,0,1.3,Flood Plain
+7/28/17,14:22:00,PT11,Howler monkey dung,PT,Ateuchus sp D,3,0,1.3,Flood Plain
+7/28/17,14:22:00,PT11,Howler monkey dung,PT,Ateuchus sp F,1,0,1.3,Flood Plain
+7/28/17,14:22:00,PT11,Howler monkey dung,PT,Dichotomius lucasi,1,0,1.3,Flood Plain
+7/28/17,14:22:00,PT11,Howler monkey dung,PT,Canthon rubrescens,1,0,1.3,Flood Plain
+7/28/17,14:22:00,PT11,Howler monkey dung,PT,Dichotomius batesi,1,0,1.3,Flood Plain
+7/28/17,14:35:00,AT12,Howler monkey dung,AT,Canthon femoralis bimaculatus,3,0,1.3,Flood Plain
+7/28/17,14:35:00,AT12,Howler monkey dung,AT,Canthon sp aff quadriguttatus,1,0,1.3,Flood Plain
+7/28/17,14:35:00,PT12,Howler monkey dung,PT,Canthon luteicollis,1,0,1.3,Flood Plain
+7/28/17,14:35:00,PT12,Howler monkey dung,PT,Scybalocanthon sp F,1,0,1.3,Flood Plain
+7/28/17,14:35:00,PT12,Howler monkey dung,PT,Deltochilum granulatum,1,0,1.3,Flood Plain
+7/28/17,14:35:00,PT12,Howler monkey dung,PT,Ateuchus sp H,4,0,1.3,Flood Plain
+7/28/17,14:35:00,PT12,Howler monkey dung,PT,Onthophagus haematopus,1,0,1.3,Flood Plain
+7/28/17,14:35:00,PT12,Howler monkey dung,PT,Ateuchus sp D,1,0,1.3,Flood Plain
+7/28/17,14:35:00,PT12,Howler monkey dung,PT,Uroxys sp D,1,0,1.3,Flood Plain
+7/29/17,13:05:00,AT10,Howler monkey dung,AT,Canthon sp aff angustatus,1,0,1.3,Flood Plain
+7/29/17,13:05:00,PT10,Howler monkey dung,PT,Scybalocanthon aereus,1,0,1.3,Flood Plain
+7/29/17,13:05:00,PT10,Howler monkey dung,PT,Dichotomius batesi,1,0,1.3,Flood Plain
+7/29/17,13:05:00,PT10,Howler monkey dung,PT,Canthidium sp aff gerstaeckeri,2,0,1.3,Flood Plain
+7/29/17,13:05:00,PT10,Howler monkey dung,PT,Canthon subhyalinus,2,0,1.3,Flood Plain
+7/29/17,13:05:00,PT10,Howler monkey dung,PT,Ateuchus cereus,1,0,1.3,Flood Plain
+7/29/17,13:15:00,PT11,Howler monkey dung,PT,Canthidium sp aff gerstaeckeri,1,0,1.3,Flood Plain
+7/29/17,13:15:00,PT11,Howler monkey dung,PT,Dichotomius batesi,1,0,1.3,Flood Plain
+7/29/17,13:15:00,PT11,Howler monkey dung,PT,Canthidium batesi,2,0,1.3,Flood Plain
+7/29/17,13:15:00,PT11,Howler monkey dung,PT,Ateuchus laevicollis,1,0,1.3,Flood Plain
+7/29/17,13:15:00,PT11,Howler monkey dung,PT,Ateuchus sp E,1,0,1.3,Flood Plain
+7/29/17,13:15:00,PT11,Howler monkey dung,PT,No ID,1,0,1.3,Flood Plain
+8/4/17,13:55:00,AT10,Howler monkey dung,AT,Canthon femoralis bimaculatus,1,0,0,Flood Plain
+8/4/17,13:55:00,PT10,Howler monkey dung,PT,Dichotomius ohausi,1,0,0,Flood Plain
+8/4/17,13:55:00,PT10,Howler monkey dung,PT,Canthon luteicollis,1,0,0,Flood Plain
+8/4/17,13:55:00,PT10,Howler monkey dung,PT,Canthonella sp A,1,0,0,Flood Plain
+8/4/17,13:55:00,PT10,Howler monkey dung,PT,Canthonella sp D,3,0,0,Flood Plain
+8/4/17,13:55:00,PT10,Howler monkey dung,PT,Canthon bicolor,1,0,0,Flood Plain
+8/4/17,13:55:00,PT10,Howler monkey dung,PT,Dichotomius lucasi,1,0,0,Flood Plain
+8/4/17,13:55:00,PT10,Howler monkey dung,PT,Sylvicanthon bridarollii,1,0,0,Flood Plain
+8/4/17,13:55:00,PT10,Howler monkey dung,PT,Onthophagus onorei,2,0,0,Flood Plain
+8/4/17,13:55:00,PT10,Howler monkey dung,PT,Onthophagus haematopus,1,0,0,Flood Plain
+8/4/17,13:55:00,PT10,Howler monkey dung,PT,Onthophagus rubrescens,2,0,0,Flood Plain
+8/4/17,13:55:00,PT10,Howler monkey dung,PT,Uroxys sp D,1,0,0,Flood Plain
+8/4/17,13:55:00,PT10,Howler monkey dung,PT,Canthidium cf thalassinum,1,0,0,Flood Plain
+8/4/17,14:05:00,AT11,Howler monkey dung,AT,Canthon femoralis bimaculatus,3,0,0,Flood Plain
+8/4/17,14:05:00,PT11,Howler monkey dung,PT,Canthidium cf thalassinum,1,0,0,Flood Plain
+8/4/17,14:15:00,AT12,Howler monkey dung,AT,Canthon sp aff quadriguttatus,2,0,0,Flood Plain
+8/4/17,14:15:00,AT12,Howler monkey dung,AT,Canthon femoralis bimaculatus,5,0,0,Flood Plain
+8/4/17,14:15:00,AT12,Howler monkey dung,AT,Canthon subhyalinus,3,0,0,Flood Plain
+8/4/17,14:15:00,AT12,Howler monkey dung,AT,Canthon sp aff angustatus,1,0,0,Flood Plain
+8/4/17,14:15:00,PT12,Howler monkey dung,PT,Dichotomius ohausi,2,0,0,Flood Plain
+8/4/17,14:15:00,PT12,Howler monkey dung,PT,Canthon luteicollis,2,0,0,Flood Plain
+8/4/17,14:15:00,PT12,Howler monkey dung,PT,Sylvicanthon bridarollii,2,0,0,Flood Plain
+8/4/17,14:15:00,PT12,Howler monkey dung,PT,Onthophagus onorei,11,0,0,Flood Plain
+8/4/17,14:15:00,PT12,Howler monkey dung,PT,Canthidium cf thalassinum,11,0,0,Flood Plain
+8/4/17,14:15:00,PT12,Howler monkey dung,PT,Ateuchus cf laevicollis,1,0,0,Flood Plain
+8/4/17,14:15:00,PT12,Howler monkey dung,PT,Canthidium cf onitoides,3,0,0,Flood Plain
+8/4/17,14:15:00,PT12,Howler monkey dung,PT,Canthon brunneus,1,0,0,Flood Plain
+8/4/17,14:15:00,PT12,Howler monkey dung,PT,Scybalocanthon sp F,1,0,0,Flood Plain
+8/4/17,14:15:00,PT12,Howler monkey dung,PT,Canthidium sp J,1,0,0,Flood Plain
+8/5/17,13:51:00,AT10,Howler monkey dung,AT,Canthon femoralis bimaculatus,1,0,0,Flood Plain
+8/5/17,13:51:00,AT10,Howler monkey dung,AT,Canthon sp aff angustatus,1,0,0,Flood Plain
+8/5/17,13:51:00,PT10,Howler monkey dung,PT,Onthophagus onorei,1,0,0,Flood Plain
+8/5/17,13:51:00,PT10,Howler monkey dung,PT,Ateuchus sp D,1,0,0,Flood Plain
+8/5/17,13:51:00,PT10,Howler monkey dung,PT,Canthidium cf thalassinum,1,0,0,Flood Plain
+8/5/17,13:51:00,PT10,Howler monkey dung,PT,Uroxys sp D,1,0,0,Flood Plain
+8/5/17,13:57:00,AT11,Howler monkey dung,AT,Canthon femoralis bimaculatus,2,0,0,Flood Plain
+8/5/17,13:57:00,AT11,Howler monkey dung,AT,Canthon sp aff quadriguttatus,1,0,0,Flood Plain
+8/5/17,13:57:00,PT11,Howler monkey dung,PT,Canthidium cf thalassinum,1,0,0,Flood Plain
+8/5/17,13:57:00,PT11,Howler monkey dung,PT,Dichotomius lucasi,2,0,0,Flood Plain
+8/5/17,14:04:00,AT12,Howler monkey dung,AT,Canthon femoralis bimaculatus,2,0,0,Flood Plain
+8/5/17,14:04:00,PT12,Howler monkey dung,PT,Canthon onitoides,4,0,0,Flood Plain
+8/5/17,14:04:00,PT12,Howler monkey dung,PT,Canthon aequinoctialis,2,0,0,Flood Plain
+8/5/17,14:04:00,PT12,Howler monkey dung,PT,Eurysternus sp nov A,2,0,0,Flood Plain
+8/5/17,14:04:00,PT12,Howler monkey dung,PT,Ateuchus sp B,1,0,0,Flood Plain
+8/5/17,14:04:00,PT12,Howler monkey dung,PT,Canthidium basipunctatum,1,0,0,Flood Plain
+8/5/17,14:04:00,PT12,Howler monkey dung,PT,Canthon sp aff angustatus,1,0,0,Flood Plain
+10/17/17,13:24:00,AT10,Human,AT,Canthon femoralis bimaculatus,2,0.3,0,Flood Plain
+10/17/17,13:24:00,AT10,Human,AT,Canthon sp aff quadriguttatus,5,0.3,0,Flood Plain
+10/17/17,13:24:00,AT10,Human,AT,Canthon sp aff brunneus,2,0.3,0,Flood Plain
+10/17/17,13:24:00,AT10,Human,AT,No ID,1,0.3,0,Flood Plain
+10/17/17,13:24:00,PT10,Human,PT,Dichotomius prietoi,1,0.3,0,Flood Plain
+10/17/17,13:24:00,PT10,Human,PT,Eurysternus hamaticollis,2,0.3,0,Flood Plain
+10/17/17,13:24:00,PT10,Human,PT,Eurysternus wittmerorum,1,0.3,0,Flood Plain
+10/17/17,13:24:00,PT10,Human,PT,Canthon luteicollis,1,0.3,0,Flood Plain
+10/17/17,13:24:00,PT10,Human,PT,Canthidium cf onitoides,1,0.3,0,Flood Plain
+10/17/17,13:24:00,PT10,Human,PT,Canthidium sp aff cupreum,9,0.3,0,Flood Plain
+10/17/17,13:24:00,PT10,Human,PT,Canthon aequinoctialis,8,0.3,0,Flood Plain
+10/17/17,13:24:00,PT10,Human,PT,Dichotomius batesi,1,0.3,0,Flood Plain
+10/17/17,13:24:00,PT10,Human,PT,Onthophagus haematopus,24,0.3,0,Flood Plain
+10/17/17,13:24:00,PT10,Human,PT,Canthon affonitoides,1,0.3,0,Flood Plain
+10/17/17,13:24:00,PT10,Human,PT,Canthon sp aff chinguano,2,0.3,0,Flood Plain
+10/17/17,13:24:00,PT10,Human,PT,Canthidium sp aff thalassinum (?),1,0.3,0,Flood Plain
+10/17/17,13:38:00,AT11,Human,AT,Canthon femoralis bimaculatus,21,0.3,0,Flood Plain
+10/17/17,13:38:00,AT11,Human,AT,Canthon sp aff quadriguttatus,20,0.3,0,Flood Plain
+10/17/17,13:38:00,AT11,Human,AT,Canthon subhyalinus,8,0.3,0,Flood Plain
+10/17/17,13:38:00,AT11,Human,AT,Canthon sp aff brunneus,1,0.3,0,Flood Plain
+10/17/17,13:38:00,AT11,Human,AT,Canthon sp aff angustatus,5,0.3,0,Flood Plain
+10/17/17,13:38:00,AT11,Human,AT,Sylvicanthon bridarollii,1,0.3,0,Flood Plain
+10/17/17,13:38:00,PT11,Human,PT,Canthon aequinoctialis,7,0.3,0,Flood Plain
+10/17/17,13:38:00,PT11,Human,PT,Dichotomius worontzowi,1,0.3,0,Flood Plain
+10/17/17,13:38:00,PT11,Human,PT,Sylvicanthon bridarollii,2,0.3,0,Flood Plain
+10/17/17,13:51:00,AT12,Human,AT,Canthon sp aff quadriguttatus,7,0.3,0,Flood Plain
+10/17/17,13:51:00,AT12,Human,AT,Canthon sp aff brunneus,1,0.3,0,Flood Plain
+10/17/17,13:51:00,AT12,Human,AT,Canthon subhyalinus,2,0.3,0,Flood Plain
+10/17/17,13:51:00,AT12,Human,AT,No ID,1,0.3,0,Flood Plain
+10/17/17,13:51:00,PT12,Human,PT,Deltochilum amazonicum,1,0.3,0,Flood Plain
+10/17/17,13:51:00,PT12,Human,PT,Canthidium sp aff cupreum,1,0.3,0,Flood Plain
+10/17/17,13:51:00,PT12,Human,PT,Scybalocanthon aereus,1,0.3,0,Flood Plain
+10/17/17,13:51:00,PT12,Human,PT,Canthon aequinoctialis,1,0.3,0,Flood Plain
+10/17/17,13:51:00,PT12,Human,PT,Sylvicanthon bridarollii,1,0.3,0,Flood Plain
+10/17/17,13:51:00,PT12,Human,PT,Scybalocanthon aereus,1,0.3,0,Flood Plain
+10/18/17,11:23:00,AT11,Human,AT,Canthon sp aff quadriguttatus,1,0.3,0,Flood Plain
+10/18/17,11:23:00,AT11,Human,AT,Canthon subhyalinus,1,0.3,0,Flood Plain
+10/18/17,11:23:00,AT11,Human,AT,Canthon sp aff brunneus,1,0.3,0,Flood Plain
+10/18/17,11:30:00,AT12,Human,AT,Canthon sp aff quadriguttatus,1,0.3,0,Flood Plain
+10/18/17,11:30:00,AT12,Human,AT,Canthon sp aff brunneus,2,0.3,0,Flood Plain
+10/31/17,7:30:00,AT6,Human,AT,Coprophanaeus lancifer,3,3,0.9,Terra Firme
+10/31/17,7:30:00,PT6,Human,PT,Canthon luteicollis,2,3,0.9,Terra Firme
+10/31/17,7:30:00,PT6,Human,PT,Canthidium sp aff cupreum,5,3,0.9,Terra Firme
+10/31/17,7:30:00,PT6,Human,PT,Eurysternus sp nov A,1,3,0.9,Terra Firme
+10/31/17,7:30:00,PT6,Human,PT,Canthidium sp aff funebre,2,3,0.9,Terra Firme
+10/31/17,7:30:00,PT6,Human,PT,Canthidium onitoides,1,3,0.9,Terra Firme
+10/31/17,7:30:00,PT6,Human,PT,Onthophagus haematopus,2,3,0.9,Terra Firme
+10/31/17,7:30:00,PT6,Human,PT,Ateuchus sp aff pygidalis,1,3,0.9,Terra Firme
+10/31/17,7:30:00,PT6,Human,PT,Canthidium bicolor,4,3,0.9,Terra Firme
+10/31/17,7:30:00,PT6,Human,PT,Onthophagus onorei,2,3,0.9,Terra Firme
+10/31/17,7:30:00,PT6,Human,PT,Onthophagus sp,1,3,0.9,Terra Firme
+10/31/17,7:30:00,PT6,Human,PT,Uroxys sp D,1,3,0.9,Terra Firme
+10/31/17,7:30:00,PT6,Human,PT,Canthidium sp aff cupreum,2,3,0.9,Terra Firme
+10/31/17,7:30:00,AT6,Human,AT,Canthon sp aff angustatus,2,3,0.9,Terra Firme
+10/31/17,7:30:00,AT6,Human,AT,Canthon sp aff quadriguttatus,1,3,0.9,Terra Firme
+10/31/17,7:30:00,AT6,Human,AT,Canthon femoralis bimaculatus,1,3,0.9,Terra Firme
+10/31/17,7:45:00,AT1,Human,AT,Canthon sp aff quadriguttatus,3,3,0.9,Terra Firme
+10/31/17,7:45:00,PT1,Human,PT,Canthidium sp aff cupreum,1,3,0.9,Terra Firme
+10/31/17,7:45:00,PT1,Human,PT,Coprophanaeus telamon,1,3,0.9,Terra Firme
+10/31/17,7:45:00,PT1,Human,PT,Canthidium sp aff gerstaeckeri,1,3,0.9,Terra Firme
+10/31/17,7:35:00,AT2,Human,AT,Canthon sp aff angustatus,10,3,0.9,Terra Firme
+10/31/17,7:35:00,AT2,Human,AT,Canthon sp aff quadriguttatus,2,3,0.9,Terra Firme
+10/31/17,7:35:00,AT2,Human,AT,Canthon femoralis bimaculatus,8,3,0.9,Terra Firme
+10/31/17,7:35:00,PT2,Human,PT,Coprophanaeus lancifer,2,3,0.9,Terra Firme
+10/31/17,7:35:00,PT2,Human,PT,Oxysternon conspicillatum,1,3,0.9,Terra Firme
+10/31/17,7:35:00,PT2,Human,PT,Canthidium sp aff cupreum,15,3,0.9,Terra Firme
+10/31/17,7:35:00,PT2,Human,PT,Canthidium bicolor,6,3,0.9,Terra Firme
+10/31/17,7:35:00,PT2,Human,PT,Ateuchus sp H,1,3,0.9,Terra Firme
+10/31/17,7:35:00,PT2,Human,PT,Canthidium sp aff basipunctatum,1,3,0.9,Terra Firme
+10/31/17,7:35:00,PT2,Human,PT,Canthidium sp aff onitoides,1,3,0.9,Terra Firme
+10/31/17,7:35:00,PT2,Human,PT,Onthophagus haematopus,4,3,0.9,Terra Firme
+10/31/17,7:35:00,PT2,Human,PT,Onthophagus onorei,3,3,0.9,Terra Firme
+10/31/17,7:35:00,PT2,Human,PT,Onthophagus rubrescens,3,3,0.9,Terra Firme
+11/1/17,8:53:00,AT6,Human,AT,Canthon luteicollis,1,3,81,Terra Firme
+11/3/17,7:44:00,AT3,Human,AT,Canthon sp aff quadriguttatus,2,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Coprophanaeus lancifer,2,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Oxysternon conspicillatum,1,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Dichotomius robustus,1,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Canthon aequinoctialis,2,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Eurysternus hamaticollis,2,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Eurysternus hypocrita,5,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Eurysternus wittmerorum,9,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Eurysternus sp nov A,2,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Canthidium sp aff cupreum,24,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Canthon sp aff angustatus,5,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Canthon luteicollis,1,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Canthon femoralis bimaculatus,1,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Canthon sp aff quadriguttatus,1,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Canthidium bicolor,3,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Canthon semiopacus,3,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Canthon sp aff brunneus,2,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Ateuchus sp D,3,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Canthidium batesi,1,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Scybalocanthon sp aff aereus,1,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Canthidium cf onitoides,2,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Canthidium sp aff funebre,17,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Onthophagus onorei,33,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Onthophagus haematopus,27,22.8,0.6,Terra Firme
+11/3/17,7:44:00,PT3,Human,PT,Onthophagus rubrescens,11,22.8,0.6,Terra Firme
+11/3/17,7:35:00,PT4,Human,PT,Dichotomius melzeri,3,22.8,0.6,Terra Firme
+11/3/17,7:35:00,PT4,Human,PT,Eurysternus sp nov A,1,22.8,0.6,Terra Firme
+11/3/17,7:35:00,PT4,Human,PT,Canthon aequinoctialis,2,22.8,0.6,Terra Firme
+11/3/17,7:25:00,PT5,Human,PT,Coprophanaeus lancifer,4,22.8,0.6,Terra Firme
+11/3/17,7:25:00,PT5,Human,PT,Oxysternon conspicillatum,1,22.8,0.6,Terra Firme
+11/3/17,7:25:00,PT5,Human,PT,Deltochilum amazonicum,1,22.8,0.6,Terra Firme
+11/3/17,7:25:00,PT5,Human,PT,Canthon fulgidus,1,22.8,0.6,Terra Firme
+11/3/17,7:25:00,PT5,Human,PT,Canthidium sp aff cupreum,5,22.8,0.6,Terra Firme
+11/3/17,7:25:00,PT5,Human,PT,Canthidium sp aff funebre,1,22.8,0.6,Terra Firme
+11/3/17,7:25:00,PT5,Human,PT,Onthophagus onorei,7,22.8,0.6,Terra Firme
+11/3/17,7:25:00,PT5,Human,PT,Onthophagus haematopus,9,22.8,0.6,Terra Firme
+11/3/17,7:25:00,PT5,Human,PT,Onthophagus rubrescens,19,22.8,0.6,Terra Firme
+11/3/17,7:25:00,PT5,Human,PT,Eurysternus sp nov A,1,22.8,0.6,Terra Firme
+11/3/17,7:25:00,PT5,Human,PT,Canthidium sp E,1,22.8,0.6,Terra Firme
+11/3/17,7:25:00,PT5,Human,PT,Ateuchus laevicollis,1,22.8,0.6,Terra Firme
+11/3/17,7:25:00,PT5,Human,PT,Ateuchus cereus,1,22.8,0.6,Terra Firme
+11/14/17,9:04:00,AT7,Human,AT,Canthon sp aff quadriguttatus,12,0.2,0,Flood Plain
+11/14/17,9:04:00,AT7,Human,AT,Canthon femoralis bimaculatus,1,0.2,0,Flood Plain
+11/14/17,9:04:00,AT7,Human,AT,Canthon brunneus,4,0.2,0,Flood Plain
+11/14/17,9:04:00,AT7,Human,AT,Canthon sp aff angustatus,4,0.2,0,Flood Plain
+11/14/17,9:04:00,AT7,Human,AT,Canthon coloratus,1,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Canthon luteicollis,1,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Canthon fulgidus,1,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Eurysternus hamaticollis,2,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Eurysternus caribaeus,3,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Eurysternus hypocrita,1,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Dichotomius prietoi,2,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Dichotomius lucasi,1,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Canthidium bicolor,6,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Canthidium sp aff cupreum,18,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Canthidium cf onitoides,2,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Onthophagus haematopus,7,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Scybalocanthon aereus,1,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Canthon aequinoctialis,3,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Onthophagus rubrescens,1,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Canthon sp aff angustatus,2,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Canthon brunneus,1,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Sylvicanthon bridarollii,1,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Canthidium discolor,3,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Onthophagus onorei,2,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Canthonella sp A,1,0.2,0,Flood Plain
+11/14/17,9:04:00,PT7,Human,PT,Canthidium basipunctatum,1,0.2,0,Flood Plain
+11/14/17,9:16:00,AT8,Human,AT,Canthon sp aff quadriguttatus,6,0.2,0,Flood Plain
+11/14/17,9:16:00,AT8,Human,AT,Canthon brunneus,9,0.2,0,Flood Plain
+11/14/17,9:16:00,AT8,Human,AT,Canthon sp aff angustatus,1,0.2,0,Flood Plain
+11/14/17,9:16:00,AT8,Human,AT,Canthon coloratus,2,0.2,0,Flood Plain
+11/14/17,9:16:00,PT8,Human,PT,Dichotomius robustus,1,0.2,0,Flood Plain
+11/14/17,9:16:00,PT8,Human,PT,Sylvicanthon bridarollii,9,0.2,0,Flood Plain
+11/14/17,9:16:00,PT8,Human,PT,Canthon aequinoctialis,3,0.2,0,Flood Plain
+11/14/17,9:16:00,PT8,Human,PT,Eurysternus hamaticollis,2,0.2,0,Flood Plain
+11/14/17,9:16:00,PT8,Human,PT,Onthophagus rubrescens,4,0.2,0,Flood Plain
+11/14/17,9:16:00,PT8,Human,PT,Canthon quinquemaculatus,2,0.2,0,Flood Plain
+11/14/17,9:16:00,PT8,Human,PT,Canthon chiriguano,3,0.2,0,Flood Plain
+11/14/17,9:16:00,PT8,Human,PT,Canthidium globulum,1,0.2,0,Flood Plain
+11/14/17,9:16:00,PT8,Human,PT,Scybalocanthon aereus,1,0.2,0,Flood Plain
+11/14/17,9:25:00,AT9,Human,AT,Canthon sp aff quadriguttatus,22,0.2,0,Flood Plain
+11/14/17,9:25:00,AT9,Human,AT,Canthon brunneus,11,0.2,0,Flood Plain
+11/14/17,9:25:00,AT9,Human,AT,Canthon femoralis bimaculatus,2,0.2,0,Flood Plain
+11/14/17,9:25:00,AT9,Human,AT,Canthon sp aff angustatus,5,0.2,0,Flood Plain
+11/14/17,9:25:00,AT9,Human,AT,Canthon subhyalinus,3,0.2,0,Flood Plain
+11/14/17,9:25:00,PT9,Human,PT,Canthon aequinoctialis,11,0.2,0,Flood Plain
+11/14/17,9:25:00,PT9,Human,PT,Sylvicanthon bridarollii,15,0.2,0,Flood Plain
+11/14/17,9:25:00,PT9,Human,PT,Canthidium sp aff cupreum,1,0.2,0,Flood Plain
+11/14/17,9:25:00,PT9,Human,PT,Onthophagus rubrescens,1,0.2,0,Flood Plain
+11/14/17,9:25:00,PT9,Human,PT,Dichotomius melzeri,1,0.2,0,Flood Plain
+11/14/17,9:25:00,PT9,Human,PT,Canthon monilifer,1,0.2,0,Flood Plain
+11/14/17,9:25:00,PT9,Human,PT,Oxysternon lautum,1,0.2,0,Flood Plain
+11/14/17,9:25:00,PT9,Human,PT,Phanaeus cambeforti,1,0.2,0,Flood Plain
+11/14/17,9:25:00,PT9,Human,PT,Dichotomius mamillatus,1,0.2,0,Flood Plain
+11/14/17,9:25:00,PT9,Human,PT,Canthon quinquemaculatus,3,0.2,0,Flood Plain
+11/14/17,9:25:00,PT9,Human,PT,Canthidium globulum,1,0.2,0,Flood Plain
+11/14/17,9:25:00,PT9,Human,PT,Canthon sp aff angustatus,1,0.2,0,Flood Plain
+11/15/17,8:35:00,PT7,Human,PT,Canthon aequinoctialis,1,0.2,0,Flood Plain
+11/15/17,8:35:00,PT7,Human,PT,Eurysternus sp nov A,5,0.2,0,Flood Plain
+11/15/17,8:35:00,PT7,Human,PT,Eurysternus hamaticollis,2,0.2,0,Flood Plain
+11/15/17,8:35:00,PT7,Human,PT,Dichotomius prietoi,1,0.2,0,Flood Plain
+11/15/17,8:35:00,PT7,Human,PT,Sylvicanthon bridarollii,1,0.2,0,Flood Plain
+11/15/17,8:35:00,PT7,Human,PT,Canthidium sp aff cupreum,2,0.2,0,Flood Plain
+11/15/17,8:35:00,PT7,Human,PT,Canthon monilifer,1,0.2,0,Flood Plain
+11/15/17,8:35:00,PT7,Human,PT,Canthidium histrio,1,0.2,0,Flood Plain
+11/15/17,8:35:00,PT7,Human,PT,Onthophagus sp,12,0.2,0,Flood Plain
+11/15/17,8:41:00,AT8,Human,AT,Canthon sp aff quadriguttatus,10,0.2,0,Flood Plain
+11/15/17,8:41:00,AT8,Human,AT,Canthon femoralis bimaculatus,8,0.2,0,Flood Plain
+11/15/17,8:41:00,AT8,Human,AT,Canthon brunneus,8,0.2,0,Flood Plain
+11/15/17,8:55:00,AT9,Human,AT,Canthon aequinoctialis,1,0.2,0,Flood Plain
+11/15/17,8:55:00,AT9,Human,AT,Canthon coloratus,2,0.2,0,Flood Plain
+11/15/17,8:55:00,AT9,Human,AT,Canthon sp aff angustatus,2,0.2,0,Flood Plain
+11/15/17,8:55:00,AT9,Human,AT,Canthon brunneus,5,0.2,0,Flood Plain
+11/15/17,8:55:00,AT9,Human,AT,Canthon sp aff quadriguttatus,11,0.2,0,Flood Plain
+11/15/17,8:55:00,AT9,Human,AT,Canthon femoralis bimaculatus,10,0.2,0,Flood Plain
+11/15/17,8:55:00,AT9,Human,AT,Canthon sp B,1,0.2,0,Flood Plain
+11/15/17,8:55:00,AT9,Human,AT,Canthon subhyalinus,2,0.2,0,Flood Plain
+11/15/17,8:55:00,PT9,Human,PT,Deltochilum amazonicum,1,0.2,0,Flood Plain
+11/15/17,8:55:00,PT9,Human,PT,Canthon fulgidus,1,0.2,0,Flood Plain
+11/15/17,8:55:00,PT9,Human,PT,Canthon aequinoctialis,12,0.2,0,Flood Plain
+11/15/17,8:55:00,PT9,Human,PT,Dichotomius robustus,1,0.2,0,Flood Plain
+11/15/17,8:55:00,PT9,Human,PT,Dichotomius batesi,2,0.2,0,Flood Plain
+11/15/17,8:55:00,PT9,Human,PT,Sylvicanthon bridarollii,15,0.2,0,Flood Plain
+11/15/17,8:55:00,PT9,Human,PT,Eurysternus hamaticollis,1,0.2,0,Flood Plain
+11/15/17,8:55:00,PT9,Human,PT,Eurysternus sp nov A,3,0.2,0,Flood Plain
+11/15/17,8:55:00,PT9,Human,PT,Onthophagus haematopus,1,0.2,0,Flood Plain
+6/9/18,8:00:00,AT3,Human,AT,Canthon femoralis bimaculatus,2,0.5,0.4,Terra Firme
+6/9/18,8:00:00,AT3,Human,AT,Canthon sp aff angustatus,2,0.5,0.4,Terra Firme
+6/9/18,8:00:00,AT3,Human,AT,Canthon brunneus,1,0.5,0.4,Terra Firme
+6/9/18,8:00:00,PT3,Human,PT,Phanaeus cambeforti,3,0.5,0.4,Terra Firme
+6/9/18,8:00:00,PT3,Human,PT,Phanaeus chalcomelas,1,0.5,0.4,Terra Firme
+6/9/18,8:00:00,PT3,Human,PT,Dichotomius batesi,1,0.5,0.4,Terra Firme
+6/9/18,8:00:00,PT3,Human,PT,Scybalocanthon sp,2,0.5,0.4,Terra Firme
+6/9/18,8:00:00,PT3,Human,PT,Onthophagus onorei,9,0.5,0.4,Terra Firme
+6/9/18,8:00:00,PT3,Human,PT,Onthophagus ophion,1,0.5,0.4,Terra Firme
+6/9/18,8:00:00,PT3,Human,PT,Onthophagus sp,1,0.5,0.4,Terra Firme
+6/9/18,8:07:00,PT5,Human,PT,Eurysternus foedus,1,0.5,0.4,Terra Firme
+6/9/18,8:07:00,PT5,Human,PT,Dichotomius worontzowi,2,0.5,0.4,Terra Firme
+6/9/18,8:07:00,PT5,Human,PT,Canthon luteicollis,1,0.5,0.4,Terra Firme
+6/9/18,8:07:00,PT5,Human,PT,Scybalocanthon aereus,1,0.5,0.4,Terra Firme
+6/9/18,8:07:00,PT5,Human,PT,Phanaeus cambeforti,2,0.5,0.4,Terra Firme
+6/9/18,8:56:00,AT1,Human,AT,Canthon sp,3,0.5,0.4,Terra Firme
+6/9/18,8:56:00,PT1,Human,PT,Canthon sp aff quadriguttatus,1,0.5,0.4,Terra Firme
+6/9/18,8:56:00,PT1,Human,PT,Canthidium sp aff cupreum,6,0.5,0.4,Terra Firme
+6/9/18,8:56:00,PT1,Human,PT,Dichotomius batesi,1,0.5,0.4,Terra Firme
+6/9/18,8:56:00,PT1,Human,PT,Onthophagus onorei,19,0.5,0.4,Terra Firme
+6/9/18,8:56:00,PT1,Human,PT,Onthophagus sp,5,0.5,0.4,Terra Firme
+6/9/18,8:56:00,PT1,Human,PT,Canthidium bicolor,1,0.5,0.4,Terra Firme
+6/9/18,8:56:00,PT1,Human,PT,Pseudocanthon xanthurus,1,0.5,0.4,Terra Firme
+6/9/18,8:56:00,PT1,Human,PT,Ateuchus cf pygidialis,1,0.5,0.4,Terra Firme
+6/9/18,8:08:00,PT6,Human,PT,Onthophagus onorei,33,0.5,0.4,Terra Firme
+6/9/18,8:08:00,PT6,Human,PT,Phanaeus cambeforti,1,0.5,0.4,Terra Firme
+6/9/18,8:08:00,PT6,Human,PT,Eurysternus hypocrita,3,0.5,0.4,Terra Firme
+6/9/18,8:08:00,PT6,Human,PT,Scybalocanthon sp,3,0.5,0.4,Terra Firme
+6/9/18,8:08:00,PT6,Human,PT,Canthidium sp aff cupreum,1,0.5,0.4,Terra Firme
+6/9/18,8:08:00,PT6,Human,PT,Onthophagus ophion,3,0.5,0.4,Terra Firme
+6/9/18,8:08:00,PT6,Human,PT,Ateuchus aeneomicans,1,0.5,0.4,Terra Firme
+6/9/18,8:08:00,PT6,Human,PT,Onthophagus sp,3,0.5,0.4,Terra Firme
+6/9/18,8:08:00,PT6,Human,PT,Canthon sp aff angustatus,1,0.5,0.4,Terra Firme
+6/9/18,8:08:00,PT6,Human,PT,Scybalocanthon sp C,1,0.5,0.4,Terra Firme
+6/9/18,8:08:00,PT6,Human,PT,Canthidium sp aff deyrollei,3,0.5,0.4,Terra Firme
+6/10/18,8:26:00,AT3,Human,AT,Canthon femoralis bimaculatus,2,0.5,0.1,Terra Firme
+6/10/18,8:26:00,AT3,Human,AT,Canthon sp aff quadriguttatus,3,0.5,0.1,Terra Firme
+6/10/18,8:26:00,AT3,Human,AT,Canthon sp aff angustatus,2,0.5,0.1,Terra Firme
+6/10/18,8:26:00,PT3,Human,PT,Canthidium sp aff cupreum,7,0.5,0.1,Terra Firme
+6/10/18,8:26:00,PT3,Human,PT,Canthon luteicollis,2,0.5,0.1,Terra Firme
+6/10/18,8:26:00,PT3,Human,PT,Scybalocanthon sp C,2,0.5,0.1,Terra Firme
+6/10/18,8:26:00,PT3,Human,PT,Canthidium gerstaeckeri,1,0.5,0.1,Terra Firme
+6/10/18,8:26:00,PT3,Human,PT,Phanaeus cambeforti,2,0.5,0.1,Terra Firme
+6/10/18,8:26:00,PT3,Human,PT,Canthidium bicolor,4,0.5,0.1,Terra Firme
+6/10/18,8:26:00,PT3,Human,PT,Onthophagus onorei,2,0.5,0.1,Terra Firme
+6/10/18,8:26:00,PT3,Human,PT,Canthon sp aff angustatus,1,0.5,0.1,Terra Firme
+6/10/18,8:26:00,PT3,Human,PT,Canthon semiopacus,1,0.5,0.1,Terra Firme
+6/10/18,8:44:00,PT5,Human,PT,Canthidium sp aff gerstaeckeri,1,0.5,0.1,Terra Firme
+6/10/18,8:44:00,PT5,Human,PT,Canthon aequinoctialis,1,0.5,0.1,Terra Firme
+6/10/18,8:44:00,PT5,Human,PT,Canthon luteicollis,2,0.5,0.1,Terra Firme
+6/10/18,8:44:00,PT5,Human,PT,Scybalocanthon aereus,1,0.5,0.1,Terra Firme
+6/10/18,8:44:00,PT5,Human,PT,Canthon sp aff angustatus,2,0.5,0.1,Terra Firme
+6/10/18,8:44:00,PT5,Human,PT,Onthophagus rubrescens,1,0.5,0.1,Terra Firme
+6/10/18,8:44:00,PT5,Human,PT,Uroxys sp D,1,0.5,0.1,Terra Firme
+6/10/18,8:44:00,PT5,Human,PT,Canthidium sp T,1,0.5,0.1,Terra Firme
+6/10/18,8:44:00,PT5,Human,PT,No ID,1,0.5,0.1,Terra Firme
+6/10/18,8:44:00,AT5,Human,AT,Canthon sp aff quadriguttatus,1,0.5,0.1,Terra Firme
+6/10/18,8:44:00,AT5,Human,AT,Canthon sp aff angustatus,1,0.5,0.1,Terra Firme
+6/10/18,9:22:00,AT1,Human,AT,Canthon sp aff quadriguttatus,1,0.5,0.1,Terra Firme
+6/10/18,9:22:00,AT1,Human,AT,Canthon femoralis bimaculatus,2,0.5,0.1,Terra Firme
+6/10/18,9:22:00,AT1,Human,AT,Canthon sp aff angustatus,1,0.5,0.1,Terra Firme
+6/10/18,9:22:00,AT1,Human,AT,No ID,1,0.5,0.1,Terra Firme
+6/10/18,9:22:00,PT1,Human,PT,Coprophanaeus lancifer,1,0.5,0.1,Terra Firme
+6/10/18,9:22:00,PT1,Human,PT,Sulcophanaeus faunus,1,0.5,0.1,Terra Firme
+6/10/18,9:22:00,PT1,Human,PT,Dichotomius melzeri,2,0.5,0.1,Terra Firme
+6/10/18,9:22:00,PT1,Human,PT,Phanaeus chalcomelas,1,0.5,0.1,Terra Firme
+6/10/18,9:22:00,PT1,Human,PT,Canthon brunneus,2,0.5,0.1,Terra Firme
+6/10/18,9:22:00,PT1,Human,PT,Canthon aequinoctialis,1,0.5,0.1,Terra Firme
+6/10/18,9:22:00,PT1,Human,PT,Scybalocanthon sp K,2,0.5,0.1,Terra Firme
+6/10/18,9:22:00,PT1,Human,PT,Onthophagus rubrescens,9,0.5,0.1,Terra Firme
+6/10/18,9:22:00,PT1,Human,PT,Canthidium sp aff cupreum,3,0.5,0.1,Terra Firme
+6/10/18,9:22:00,PT1,Human,PT,Onthophagus haematopus,1,0.5,0.1,Terra Firme
+6/10/18,9:22:00,PT1,Human,PT,Canthidium bicolor,1,0.5,0.1,Terra Firme
+6/10/18,9:22:00,PT1,Human,PT,Canthidium sp,2,0.5,0.1,Terra Firme
+6/10/18,9:22:00,PT1,Human,PT,Onthophagus onorei,4,0.5,0.1,Terra Firme
+6/13/18,10:16:00,PT2,Human,PT,Canthon aequinoctialis,2,0,,Terra Firme
+6/13/18,10:16:00,PT2,Human,PT,Phanaeus bispinus,1,0,4.6,Terra Firme
+6/13/18,10:16:00,PT2,Human,PT,Dichotomius conicollis,1,0,4.6,Terra Firme
+6/13/18,10:16:00,PT2,Human,PT,Dichotomius ohausi,1,0,4.6,Terra Firme
+6/13/18,10:16:00,PT2,Human,PT,Canthidium sp aff cupreum,1,0,4.6,Terra Firme
+6/13/18,10:16:00,PT2,Human,PT,Canthon sp aff angustatus,5,0,4.6,Terra Firme
+6/13/18,10:16:00,PT2,Human,PT,Onthophagus xanthomerus,2,0,4.6,Terra Firme
+6/13/18,10:16:00,PT2,Human,PT,Onthophagus haematopus,1,0,4.6,Terra Firme
+6/13/18,10:16:00,PT2,Human,PT,Onthophagus onorei,2,0,4.6,Terra Firme
+6/13/18,10:16:00,PT2,Human,PT,Uroxys sp K,1,0,4.6,Terra Firme
+6/13/18,10:16:00,PT2,Human,PT,Onthophagus sp,1,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Canthon luteicollis,7,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Canthon aequinoctialis,2,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Scybalocanthon sp C,3,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Canthidium sp aff cupreum,4,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Canthon bicolor,4,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Phanaeus cambeforti,2,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Eurysternus wittmerorum,2,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Canthidium cf onitoides,2,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Ateuchus sp H,4,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Onthophagus xanthomerus,1,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Onthophagus onorei,4,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Onthophagus sp,2,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Onthophagus haematopus,36,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Onthophagus rubrescens,1,0,4.6,Terra Firme
+6/13/18,9:20:00,PT4,Human,PT,Uroxys sp D,1,0,4.6,Terra Firme
+6/13/18,10:16:00,AT2,Human,AT,Canthon sp aff quadriguttatus,6,0,4.6,Terra Firme
+6/13/18,10:16:00,AT2,Human,AT,Canthon femoralis bimaculatus,1,0,4.6,Terra Firme
+6/13/18,9:30:00,AT3,Human,AT,Canthon sp aff angustatus,2,0,4.6,Terra Firme
+6/13/18,9:30:00,AT3,Human,AT,Canthon femoralis bimaculatus,2,0,4.6,Terra Firme
+6/13/18,9:50:00,PT6,Human,PT,Dichotomius batesi,2,0,4.6,Terra Firme
+6/13/18,9:50:00,PT6,Human,PT,Dichotomius worontzowi,2,0,4.6,Terra Firme
+6/13/18,9:50:00,PT6,Human,PT,Deltochilum carinatum,2,0,4.6,Terra Firme
+6/13/18,9:50:00,PT6,Human,PT,Dichotomius conicollis,1,0,4.6,Terra Firme
+6/13/18,9:50:00,PT6,Human,PT,Onthophagus onorei,2,0,4.6,Terra Firme
+6/13/18,9:50:00,PT6,Human,PT,Canthidium bicolor,1,0,4.6,Terra Firme
+6/13/18,9:50:00,PT6,Human,PT,Dichotomius ohausi,2,0,4.6,Terra Firme
+6/13/18,9:50:00,AT6,Human,AT,Canthon sp aff quadriguttatus,1,0,4.6,Terra Firme
+6/13/18,9:50:00,AT6,Human,AT,Canthon sp aff angustatus,2,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Phanaeus chalcomelas,2,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Phanaeus cambeforti,1,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Canthon aequinoctialis,3,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Canthidium sp aff cupreum,1,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Canthidium bicolor,3,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Onthophagus onorei,1,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Onthophagus rubrescens,4,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Onthophagus haematopus,7,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Scybalocanthon sp C,2,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Deltochilum sp aff komareki,1,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Ateuchus sp E,1,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Uroxys sp D,2,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Canthon luteicollis,1,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,Canthidium gerstaeckeri,3,0,4.6,Terra Firme
+6/13/18,9:46:00,PT5,Human,PT,No ID,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT1,Human,PT,Canthidium sp aff cupreum,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT1,Human,PT,Canthidium bicolor,1,0,4.6,Terra Firme
+6/13/18,9:30:00,PT1,Human,PT,Onthophagus onorei,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT1,Human,PT,Onthophagus haematopus,1,0,4.6,Terra Firme
+6/13/18,9:30:00,PT1,Human,PT,Onthophagus sp,1,0,4.6,Terra Firme
+6/13/18,9:30:00,PT1,Human,PT,Canthon sp aff angustatus,1,0,4.6,Terra Firme
+6/13/18,9:30:00,PT1,Human,PT,Scybalocanthon sp C,1,0,4.6,Terra Firme
+6/13/18,9:30:00,PT1,Human,PT,Dichotomius conicollis,3,0,4.6,Terra Firme
+6/13/18,9:30:00,PT1,Human,PT,Dichotomius mamillatus,1,0,4.6,Terra Firme
+6/13/18,9:30:00,PT1,Human,PT,Deltochilum sp aff komareki,1,0,4.6,Terra Firme
+6/13/18,9:30:00,PT1,Human,PT,No ID,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Eurysternus hypocrita,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Eurysternus vastiorum,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Canthidium sp aff cupreum,5,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Canthon semiopacus,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Canthon aequinoctialis,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Canthon luteicollis,3,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Canthon sp aff angustatus,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Canthon brunneus,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Canthidium sp aff gerstaeckeri,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Canthidium bicolor,4,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Canthidium sp aff funebre,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Canthidium sp,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Scybalocanthon sexipilotos,1,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Phanaeus cambeforti,6,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Phanaeus chalcomelas,2,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Ateuchus striatulus,1,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Onthophagus rubrescens,20,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Onthophagus xanthomerus,1,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Onthophagus onorei,7,0,4.6,Terra Firme
+6/13/18,9:30:00,PT3,Human,PT,Onthophagus haematopus,27,0,4.6,Terra Firme
+6/13/18,9:30:00,AT1,Human,AT,Canthon sp aff angustatus,1,0,4.6,Terra Firme
+6/14/18,9:30:00,PT1,Human,PT,Dichotomius worontzowi,1,0,0.6,Terra Firme
+6/14/18,9:30:00,PT1,Human,PT,Ateuchus sp,1,0,0.6,Terra Firme
+6/14/18,9:46:00,PT5,Human,PT,Onthophagus rubrescens,2,0,0.6,Terra Firme
+6/14/18,9:46:00,PT5,Human,PT,Canthidium sp,1,0,0.6,Terra Firme
+6/14/18,9:41:00,PT2,Human,PT,Phanaeus cambeforti,2,0,0.6,Terra Firme
+6/14/18,9:41:00,PT2,Human,PT,Deltochilum sp aff komareki,1,0,0.6,Terra Firme
+6/14/18,9:41:00,PT2,Human,PT,Onthophagus xanthomerus,1,0,0.6,Terra Firme
+6/14/18,9:41:00,PT2,Human,PT,Onthophagus onorei,1,0,0.6,Terra Firme
+6/14/18,9:41:00,PT2,Human,PT,Dichotomius conicollis,3,0,0.6,Terra Firme
+6/14/18,9:30:00,PT3,Human,PT,Canthon aequinoctialis,1,0,0.6,Terra Firme
+6/14/18,9:30:00,PT3,Human,PT,Eurysternus hamaticollis,1,0,0.6,Terra Firme
+6/14/18,9:30:00,PT3,Human,PT,Onthophagus rubrescens,3,0,0.6,Terra Firme
+6/14/18,9:30:00,PT3,Human,PT,Onthophagus onorei,1,0,0.6,Terra Firme
+6/14/18,9:30:00,PT3,Human,PT,Ateuchus sp,1,0,0.6,Terra Firme
+6/14/18,9:37:00,AT4,Human,AT,Eurysternus vastiorum,1,0,0.6,Terra Firme
+6/14/18,9:30:00,AT3,Human,AT,Canthon femoralis bimaculatus,1,0,0.6,Terra Firme
+6/14/18,9:41:00,AT2,Human,AT,Canthon sp aff quadriguttatus,2,0,0.6,Terra Firme
+6/21/18,14:08:00,PT9,Human,PT,Ateuchus sp,9,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Ateuchus sp D,4,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Dichotomius prietoi,1,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Dichotomius conicollis,1,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Eurysternus sp,2,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Eurysternus sp nov A,9,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Canthon aequinoctialis,5,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Sylvicanthon bridarollii,13,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Canthon monilifer,2,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Deltochilum sp aff komareki,1,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Scybalocanthon zischkai,2,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Canthon brunneus,9,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Onthophagus xanthomerus,4,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Onthophagus haematopus,8,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Onthophagus onorei,3,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Onthophagus rubrescens,8,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Onthophagus rhinophyllus,3,0,0,Flood Plain
+6/21/18,14:08:00,PT9,Human,PT,Canthidium sp,3,0,0,Flood Plain
+6/21/18,14:08:00,AT9,Human,AT,Canthon brunneus,1,0,0,Flood Plain
+6/21/18,13:56:00,PT7,Human,PT,Oxysternon conspicillatum,1,0,0,Flood Plain
+6/21/18,13:56:00,PT7,Human,PT,Dichotomius prietoi,2,0,0,Flood Plain
+6/21/18,13:56:00,PT7,Human,PT,Canthon luteicollis,1,0,0,Flood Plain
+6/21/18,13:56:00,PT7,Human,PT,Eurysternus vastiorum,1,0,0,Flood Plain
+6/21/18,13:56:00,PT7,Human,PT,Eurysternus plebejus,1,0,0,Flood Plain
+6/21/18,13:56:00,PT7,Human,PT,Dichotomius lucasi,1,0,0,Flood Plain
+6/21/18,13:56:00,PT7,Human,PT,Dichotomius batesi,1,0,0,Flood Plain
+6/21/18,13:56:00,PT7,Human,PT,Canthidium sp,1,0,0,Flood Plain
+6/21/18,13:56:00,PT7,Human,PT,Sylvicanthon bridarollii,1,0,0,Flood Plain
+6/21/18,13:56:00,PT7,Human,PT,Onthophagus ophion,2,0,0,Flood Plain
+6/21/18,13:56:00,PT7,Human,PT,Onthophagus xanthomerus,1,0,0,Flood Plain
+6/21/18,13:56:00,PT7,Human,PT,Onthophagus rubrescens,2,0,0,Flood Plain
+6/21/18,13:56:00,PT7,Human,PT,Onthophagus haematopus,2,0,0,Flood Plain
+6/22/18,14:24:00,AT9,Human,AT,Canthon brunneus,1,0,0,Flood Plain
+6/22/18,14:13:00,AT7,Human,AT,Canthon brunneus,1,0,0,Flood Plain
+6/22/18,14:44:00,AT10,Human,AT,Canthon sp aff angustatus,1,0,0,Flood Plain
+6/22/18,14:13:00,PT7,Human,PT,Oxysternon lautum,1,0,0,Flood Plain
+6/22/18,14:13:00,PT7,Human,PT,Dichotomius batesi,2,0,0,Flood Plain
+6/22/18,14:13:00,PT7,Human,PT,Canthon aequinoctialis,2,0,0,Flood Plain
+6/22/18,14:13:00,PT7,Human,PT,Canthidium cf onitoides,1,0,0,Flood Plain
+6/22/18,14:13:00,PT7,Human,PT,Onthophagus haematopus,2,0,0,Flood Plain
+6/22/18,14:13:00,PT7,Human,PT,Onthophagus xanthomerus,1,0,0,Flood Plain
+6/22/18,14:13:00,PT7,Human,PT,Onthophagus onorei,1,0,0,Flood Plain
+6/22/18,14:13:00,PT7,Human,PT,Onthophagus ophion,1,0,0,Flood Plain
+6/22/18,14:13:00,PT7,Human,PT,Eurysternus caribaeus,1,0,0,Flood Plain
+6/22/18,14:13:00,PT7,Human,PT,Eurysternus foedus,1,0,0,Flood Plain
+6/22/18,14:13:00,PT7,Human,PT,Eurysternus sp nov A,1,0,0,Flood Plain
+6/22/18,14:13:00,PT7,Human,PT,Onthophagus sp,2,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Deltochilum amazonicum,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Dichotomius prietoi,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Oxysternon silenus,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Canthon aequinoctialis,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Eurysternus caribaeus,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Eurysternus sp nov A,3,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Eurysternus vastiorum,2,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Ateuchus laevicollis,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Ateuchus sp H,2,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Scybalocanthon zischkai,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Canthon brunneus,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Canthon subhyalinus,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Onthophagus xanthomerus,2,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Onthophagus rhinophyllus,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Onthophagus rubrescens,5,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Onthophagus haematopus,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Canthon sp aff angustatus,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Sylvicanthon bridarollii,4,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Canthidium sp J,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Scybalocanthon aereus,3,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Onthophagus ophion,1,0,0,Flood Plain
+6/22/18,14:24:00,PT9,Human,PT,Onthophagus sp,3,0,0,Flood Plain
+6/22/18,14:44:00,PT10,Human,PT,Dichotomius conicollis,1,0,0,Flood Plain
+6/22/18,14:44:00,PT10,Human,PT,Eurysternus hamaticollis,1,0,0,Flood Plain
+6/22/18,14:44:00,PT10,Human,PT,Canthon luteicollis,2,0,0,Flood Plain
+6/22/18,14:44:00,PT10,Human,PT,Canthon brunneus,1,0,0,Flood Plain
+6/22/18,14:44:00,PT10,Human,PT,Deltochilum granulatum,1,0,0,Flood Plain
+6/22/18,14:44:00,PT10,Human,PT,Onthophagus rhinophyllus,1,0,0,Flood Plain
+6/22/18,14:44:00,PT10,Human,PT,Onthophagus xanthomerus,2,0,0,Flood Plain
+6/22/18,14:44:00,PT10,Human,PT,Onthophagus haematopus,1,0,0,Flood Plain
+6/22/18,14:44:00,PT10,Human,PT,Onthophagus onorei,1,0,0,Flood Plain
+6/22/18,14:44:00,PT10,Human,PT,Onthophagus rubrescens,4,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Deltochilum amazonicum,1,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Dichotomius prietoi,1,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Eurysternus hypocrita,1,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Eurysternus caribaeus,4,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Eurysternus vastiorum,5,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Deltochilum granulatum,3,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Canthon aequinoctialis,2,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Ateuchus sp H,11,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Ateuchus laevicollis,7,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Ateuchus connexus,2,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Sylvicanthon bridarollii,2,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Canthon brunneus,4,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Canthidium sp J,1,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Canthidium discolor,1,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Onthophagus xanthomerus,4,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Onthophagus rhinophyllus,2,0,0,Flood Plain
+6/22/18,14:34:00,PT12,Human,PT,Onthophagus sp,18,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Deltochilum amazonicum,1,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Dichotomius mamillatus,1,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Eurysternus hamaticollis,1,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Eurysternus caribaeus,2,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Eurysternus vastiorum,6,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Deltochilum granulatum,2,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Dichotomius ohausi,1,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Oxysternon spiniferum,1,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Canthon aequinoctialis,1,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Scybalocanthon aereus,1,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Scybalocanthon zischkai,1,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Canthon brunneus,2,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Ateuchus sp B,1,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Ateuchus sp H,3,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Canthidium sp aff cupreum,1,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Canthon brunneus,1,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Onthophagus rubrescens,13,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Onthophagus ophion,3,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Onthophagus haematopus,7,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Onthophagus onorei,5,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Onthophagus xanthomerus,2,0,0,Flood Plain
+6/21/18,14:10:00,PT12,Human,PT,Onthophagus sp,3,0,0,Flood Plain
+7/6/18,14:54:00,PT3,Human,PT,Dichotomius ohausi,1,0,0.1,Terra Firme
+7/6/18,14:54:00,PT3,Human,PT,Dichotomius conicollis,3,0,0.1,Terra Firme
+7/6/18,14:54:00,PT3,Human,PT,Dichotomius sp aff lucasi,1,0,0.1,Terra Firme
+7/6/18,14:54:00,PT3,Human,PT,Eurysternus hamaticollis,1,0,0.1,Terra Firme
+7/6/18,14:54:00,PT3,Human,PT,Eurysternus vastiorum,1,0,0.1,Terra Firme
+7/6/18,14:54:00,PT3,Human,PT,Ateuchus sp H,1,0,0.1,Terra Firme
+7/6/18,14:34:00,PT5,Human,PT,Dichotomius ohausi,1,0,0.1,Terra Firme
+7/6/18,14:34:00,PT5,Human,PT,Deltochilum peruanum,1,0,0.1,Terra Firme
+7/6/18,14:34:00,PT5,Human,PT,Onthophagus xanthomerus,1,0,0.1,Terra Firme
+7/6/18,14:34:00,PT5,Human,PT,Scybalocanthon sp C,2,0,0.1,Terra Firme
+7/6/18,14:34:00,PT5,Human,PT,Eurysternus vastiorum,1,0,0.1,Terra Firme
+7/6/18,14:34:00,PT5,Human,PT,Ateuchus laevicollis,1,0,0.1,Terra Firme
+7/6/18,16:06:00,PT1,Human,PT,Dichotomius sp aff lucasi,2,0,0.1,Terra Firme
+7/6/18,16:06:00,PT1,Human,PT,Onthophagus xanthomerus,1,0,0.1,Terra Firme
+7/6/18,16:06:00,PT1,Human,PT,Onthophagus sp,1,0,0.1,Terra Firme
+7/6/18,16:06:00,PT1,Human,PT,Uroxys sp D,2,0,0.1,Terra Firme
+7/6/18,16:06:00,PT1,Human,PT,Ateuchus connexus,1,0,0.1,Terra Firme
+7/6/18,15:45:00,PT6,Human,PT,Eurysternus hypocrita,1,0,0.1,Terra Firme
+7/6/18,15:45:00,PT6,Human,PT,Eurysternus foedus,1,0,0.1,Terra Firme
+7/6/18,15:45:00,PT6,Human,PT,Onthophagus xanthomerus,1,0,0.1,Terra Firme
+7/6/18,15:45:00,PT6,Human,PT,Ateuchus cf pygidialis,1,0,0.1,Terra Firme
+7/6/18,14:42:00,PT4,Human,PT,Deltochilum sp aff komareki,2,0,0.1,Terra Firme
+7/6/18,14:42:00,PT4,Human,PT,Eurysternus vastiorum,1,0,0.1,Terra Firme
+7/6/18,14:42:00,PT4,Human,PT,Scybalocanthon sp F,1,0,0.1,Terra Firme
+7/6/18,15:56:00,PT2,Human,PT,Onthophagus xanthomerus,1,0,0.1,Terra Firme
+7/6/18,15:56:00,PT2,Human,PT,Canthidium sp aff kiessenwetteri,1,0,0.1,Terra Firme
+7/6/18,15:56:00,PT2,Human,PT,Ateuchus sp E,1,0,0.1,Terra Firme
+7/6/18,15:56:00,PT2,Human,PT,Uroxys sp K,2,0,0.1,Terra Firme
+7/7/18,13:53:00,PT5,Human,PT,Deltochilum howdeni,1,0,0.1,Terra Firme
+7/7/18,13:53:00,PT5,Human,PT,Deltochilum sp aff komareki,1,0,0.1,Terra Firme
+7/7/18,15:24:00,PT2,Human,PT,Deltochilum sp aff komareki,1,0,0.1,Terra Firme
+7/7/18,15:10:00,PT6,Human,PT,Dichotomius conicollis,3,0,0.1,Terra Firme
+7/7/18,15:31:00,PT1,Human,PT,Dichotomius conicollis,1,0,0.1,Terra Firme
+7/7/18,15:31:00,PT1,Human,PT,Dichotomius sp aff lucasi,1,0,0.1,Terra Firme
+7/7/18,15:31:00,PT1,Human,PT,Ateuchus sp H,2,0,0.1,Terra Firme
+7/7/18,15:31:00,PT1,Human,PT,Ateuchus sp D,2,0,0.1,Terra Firme
+7/7/18,15:31:00,PT1,Human,PT,Dichotomius lucasi,1,0,0.1,Terra Firme
+7/7/18,14:30:00,PT3,Human,PT,Eurysternus sp nov,1,0,0.1,Terra Firme
+7/7/18,14:30:00,PT3,Human,PT,Eurysternus foedus,1,0,0.1,Terra Firme
+7/7/18,14:30:00,PT3,Human,PT,Ateuchus sp D,2,0,0.1,Terra Firme
+7/7/18,14:20:00,PT4,Human,PT,Dichotomius mamillatus,1,0,0.1,Terra Firme
+7/7/18,14:20:00,PT4,Human,PT,Dichotomius sp aff lucasi,1,0,0.1,Terra Firme
+7/7/18,14:20:00,PT4,Human,PT,Ateuchus sp H,3,0,0.1,Terra Firme
+7/11/18,7:28:00,PT7,Human,PT,Canthon luteicollis,1,37.2,0,Flood Plain
+7/11/18,7:28:00,PT7,Human,PT,Canthidium sp aff kiessenwetteri,1,37.2,0,Flood Plain
+7/11/18,7:32:00,AT8,Human,AT,Canthon sp aff quadriguttatus,1,37.2,0,Flood Plain
+7/11/18,7:40:00,PT8,Human,PT,Sylvicanthon bridarollii,10,37.2,0,Flood Plain
+7/11/18,7:50:00,AT9,Human,AT,Canthon subhyalinus,1,37.2,0,Flood Plain
+7/11/18,7:50:00,PT9,Human,PT,Sylvicanthon bridarollii,8,37.2,0,Flood Plain
+7/11/18,7:50:00,PT9,Human,PT,Canthidium sp aff cupreum,2,37.2,0,Flood Plain
+7/11/18,7:50:00,PT9,Human,PT,Canthon sp aff quadriguttatus,1,37.2,0,Flood Plain
+7/11/18,7:50:00,PT9,Human,PT,Scybalocanthon sp F,1,37.2,0,Flood Plain
+7/11/18,8:28:00,PT10,Human,PT,Sylvicanthon bridarollii,2,37.2,0,Flood Plain
+7/11/18,8:28:00,PT10,Human,PT,Canthidium sp aff cupreum,2,37.2,0,Flood Plain
+7/11/18,8:28:00,PT10,Human,PT,Canthidium cf basipunctatum,2,37.2,0,Flood Plain
+7/11/18,8:28:00,PT10,Human,PT,Canthon luteicollis,2,37.2,0,Flood Plain
+7/11/18,8:16:00,AT11,Human,AT,Canthon sp aff quadriguttatus,1,37.2,0,Flood Plain
+7/11/18,8:16:00,PT11,Human,PT,Sylvicanthon bridarollii,6,37.2,0,Flood Plain
+7/11/18,8:16:00,PT11,Human,PT,Canthon brunneus,1,37.2,0,Flood Plain
+7/11/18,8:06:00,PT12,Human,PT,Sylvicanthon bridarollii,1,37.2,0,Flood Plain
+7/12/18,7:39:00,PT8,Human,PT,Canthon luteicollis,1,37.2,0,Flood Plain
+7/12/18,7:39:00,PT8,Human,PT,Sylvicanthon bridarollii,5,37.2,0,Flood Plain
+7/12/18,7:39:00,PT8,Human,PT,Scybalocanthon aereus,1,37.2,0,Flood Plain
+7/12/18,7:39:00,PT8,Human,PT,Onthophagus xanthomerus,1,37.2,0,Flood Plain
+7/12/18,8:12:00,PT12,Human,PT,Sylvicanthon bridarollii,5,37.2,0,Flood Plain
+7/12/18,8:12:00,PT12,Human,PT,Eurysternus caribaeus,1,37.2,0,Flood Plain
+7/12/18,8:12:00,PT12,Human,PT,Canthon luteicollis,1,37.2,0,Flood Plain
+7/12/18,8:12:00,PT12,Human,PT,Scybalocanthon aereus,2,37.2,0,Flood Plain
+7/12/18,8:12:00,PT12,Human,PT,Onthophagus xanthomerus,1,37.2,0,Flood Plain
+7/12/18,8:12:00,PT12,Human,PT,Deltochilum granulatum,1,37.2,0,Flood Plain
+7/12/18,8:12:00,PT12,Human,PT,Onthophagus sp,1,37.2,0,Flood Plain
+7/12/18,7:28:00,PT7,Human,PT,Onthophagus xanthomerus,2,37.2,0,Flood Plain
+7/12/18,7:28:00,PT7,Human,PT,Canthon luteicollis,1,37.2,0,Flood Plain
+7/12/18,7:28:00,PT7,Human,PT,Sylvicanthon bridarollii,1,37.2,0,Flood Plain
+7/12/18,8:25:00,PT10,Human,PT,Deltochilum granulatum,1,37.2,0,Flood Plain
+7/12/18,8:25:00,PT10,Human,PT,Eurysternus hamaticollis,1,37.2,0,Flood Plain
+7/12/18,8:25:00,PT10,Human,PT,Canthidium sp aff cupreum,2,37.2,0,Flood Plain
+7/12/18,8:25:00,PT10,Human,PT,Scybalocanthon sp F,1,37.2,0,Flood Plain
+7/12/18,8:25:00,PT10,Human,PT,Onthophagus xanthomerus,1,37.2,0,Flood Plain
+7/12/18,8:25:00,PT10,Human,PT,Canthidium sp E,1,37.2,0,Flood Plain
+7/12/18,8:18:00,PT11,Human,PT,Sylvicanthon bridarollii,2,37.2,0,Flood Plain
+7/12/18,8:18:00,PT11,Human,PT,Canthon luteicollis,2,37.2,0,Flood Plain
+7/12/18,8:18:00,PT11,Human,PT,Onthophagus xanthomerus,1,37.2,0,Flood Plain
+7/12/18,7:54:00,PT9,Human,PT,Canthon monilifer,1,37.2,0,Flood Plain
+7/12/18,7:54:00,PT9,Human,PT,Canthon luteicollis,3,37.2,0,Flood Plain
+7/12/18,7:54:00,PT9,Human,PT,Canthidium sp aff cupreum,2,37.2,0,Flood Plain
+7/12/18,7:54:00,PT9,Human,PT,Sylvicanthon bridarollii,4,37.2,0,Flood Plain
+7/12/18,7:54:00,PT9,Human,PT,Scybalocanthon sp F,1,37.2,0,Flood Plain
+7/12/18,7:54:00,PT9,Human,PT,Oxysternon lautum,1,37.2,0,Flood Plain
+7/12/18,7:54:00,PT9,Human,PT,Canthidium sp T,1,37.2,0,Flood Plain
+7/12/18,8:25:00,AT10,Human,AT,Canthon femoralis bimaculatus,1,37.2,0,Flood Plain
+7/12/18,7:28:00,AT7,Human,AT,Canthon femoralis bimaculatus,1,37.2,0,Flood Plain
+7/12/18,7:28:00,AT7,Human,AT,Canthon sp aff quadriguttatus,1,37.2,0,Flood Plain
+7/23/18,14:12:00,PT12,Human,PT,Canthon aequinoctialis,2,23,0.1,Flood Plain
+7/23/18,14:12:00,PT12,Human,PT,Sylvicanthon bridarollii,40,23,0.1,Flood Plain
+7/23/18,14:12:00,PT12,Human,PT,Onthophagus sp,2,23,0.1,Flood Plain
+7/23/18,14:12:00,PT12,Human,PT,Scybalocanthon aereus,2,23,0.1,Flood Plain
+7/23/18,14:12:00,PT12,Human,PT,Scybalocanthon sp F,1,23,0.1,Flood Plain
+7/23/18,14:12:00,PT12,Human,PT,Ateuchus sp H,4,23,0.1,Flood Plain
+7/23/18,14:12:00,PT12,Human,PT,Eurysternus caribaeus,1,23,0.1,Flood Plain
+7/23/18,14:12:00,PT12,Human,PT,Deltochilum granulatum,4,23,0.1,Flood Plain
+7/23/18,14:28:00,PT10,Human,PT,Sylvicanthon bridarollii,19,23,0.1,Flood Plain
+7/23/18,14:28:00,PT10,Human,PT,Eurysternus caribaeus,1,23,0.1,Flood Plain
+7/23/18,14:28:00,PT10,Human,PT,Deltochilum granulatum,5,23,0.1,Flood Plain
+7/23/18,14:28:00,PT10,Human,PT,Scybalocanthon aereus,1,23,0.1,Flood Plain
+7/23/18,14:28:00,PT10,Human,PT,Eurysternus sp nov,1,23,0.1,Flood Plain
+7/23/18,14:01:00,PT9,Human,PT,Sylvicanthon bridarollii,21,23,0.1,Flood Plain
+7/23/18,14:01:00,PT9,Human,PT,Canthidium sp aff cupreum,3,23,0.1,Flood Plain
+7/23/18,14:01:00,PT9,Human,PT,Canthon aequinoctialis,1,23,0.1,Flood Plain
+7/23/18,14:01:00,PT9,Human,PT,Onthophagus sp,4,23,0.1,Flood Plain
+7/23/18,14:01:00,PT9,Human,PT,Eurysternus caribaeus,2,23,0.1,Flood Plain
+7/23/18,14:01:00,PT9,Human,PT,Canthidium cf globulum,2,23,0.1,Flood Plain
+7/23/18,14:01:00,PT9,Human,PT,Scybalocanthon aereus,2,23,0.1,Flood Plain
+7/23/18,14:01:00,PT9,Human,PT,Scybalocanthon sp F,4,23,0.1,Flood Plain
+7/23/18,14:01:00,PT9,Human,PT,Canthon sp aff angustatus,2,23,0.1,Flood Plain
+7/23/18,14:01:00,PT9,Human,PT,Ateuchus sp C,1,23,0.1,Flood Plain
+7/23/18,14:01:00,PT9,Human,PT,Canthidium bicolor,1,23,0.1,Flood Plain
+7/23/18,14:01:00,PT9,Human,PT,Canthon monilifer,1,23,0.1,Flood Plain
+7/23/18,13:43:00,PT7,Human,PT,Sylvicanthon bridarollii,20,23,0.1,Flood Plain
+7/23/18,13:43:00,PT7,Human,PT,Onthophagus sp,4,23,0.1,Flood Plain
+7/23/18,13:43:00,PT7,Human,PT,Canthon aequinoctialis,1,23,0.1,Flood Plain
+7/23/18,13:43:00,PT7,Human,PT,Scybalocanthon aereus,1,23,0.1,Flood Plain
+7/23/18,13:43:00,PT7,Human,PT,Eurysternus caribaeus,1,23,0.1,Flood Plain
+7/23/18,13:43:00,PT7,Human,PT,Dichotomius lucasi,1,23,0.1,Flood Plain
+7/23/18,13:52:00,PT8,Human,PT,Canthon aequinoctialis,1,23,0.1,Flood Plain
+7/23/18,13:52:00,PT8,Human,PT,Sylvicanthon bridarollii,3,23,0.1,Flood Plain
+7/23/18,13:52:00,PT8,Human,PT,Onthophagus sp,2,23,0.1,Flood Plain
+7/23/18,13:52:00,PT8,Human,PT,Oxysternon lautum,1,23,0.1,Flood Plain
+7/23/18,13:52:00,PT8,Human,PT,Scybalocanthon zischkai,1,23,0.1,Flood Plain
+7/23/18,14:21:00,PT11,Human,PT,Onthophagus sp,8,23,0.1,Flood Plain
+7/23/18,14:21:00,PT11,Human,PT,Sylvicanthon bridarollii,41,23,0.1,Flood Plain
+7/23/18,14:21:00,PT11,Human,PT,Canthon aequinoctialis,4,23,0.1,Flood Plain
+7/23/18,14:21:00,PT11,Human,PT,Scybalocanthon sp K,2,23,0.1,Flood Plain
+7/23/18,14:21:00,PT11,Human,PT,Canthon luteicollis,1,23,0.1,Flood Plain
+7/23/18,14:21:00,PT11,Human,PT,Deltochilum granulatum,3,23,0.1,Flood Plain
+7/23/18,14:21:00,PT11,Human,PT,Onthophagus xanthomerus,5,23,0.1,Flood Plain
+7/23/18,14:21:00,PT11,Human,PT,Coprophanaeus telamon,1,23,0.1,Flood Plain
+7/23/18,13:43:00,AT7,Human,AT,Canthon femoralis bimaculatus,1,23,0.1,Flood Plain
+7/23/18,14:28:00,AT10,Human,AT,Sylvicanthon bridarollii,1,23,0.1,Flood Plain
+7/24/18,13:22:00,AT7,Human,AT,Canthon sp aff quadriguttatus,1,23,0,Flood Plain
+7/24/18,13:50:00,AT11,Human,AT,Canthon sp aff quadriguttatus,1,23,0,Flood Plain
+7/24/18,13:35:00,AT9,Human,AT,Canthon sp aff quadriguttatus,1,23,0,Flood Plain
+7/24/18,13:35:00,AT9,Human,AT,Canthon subhyalinus,1,23,0,Flood Plain
+7/24/18,13:56:00,AT10,Human,AT,No ID,1,23,0,Flood Plain
+7/24/18,13:56:00,PT10,Human,PT,Onthophagus rhinophyllus,1,23,0,Flood Plain
+7/24/18,13:56:00,PT10,Human,PT,Onthophagus xanthomerus,1,23,0,Flood Plain
+7/24/18,13:56:00,PT10,Human,PT,Deltochilum granulatum,9,23,0,Flood Plain
+7/24/18,13:56:00,PT10,Human,PT,Deltochilum sp aff komareki,1,23,0,Flood Plain
+7/24/18,13:56:00,PT10,Human,PT,Ateuchus sp H,1,23,0,Flood Plain
+7/24/18,13:56:00,PT10,Human,PT,Dichotomius batesi,1,23,0,Flood Plain
+7/24/18,13:28:00,PT8,Human,PT,Sylvicanthon bridarollii,1,23,0,Flood Plain
+7/24/18,13:22:00,PT7,Human,PT,Dichotomius ohausi,1,23,0,Flood Plain
+7/24/18,13:22:00,PT7,Human,PT,Oxysternon silenus,1,23,0,Flood Plain
+7/24/18,13:22:00,PT7,Human,PT,Scybalocanthon aereus,1,23,0,Flood Plain
+7/24/18,13:22:00,PT7,Human,PT,Canthidium sp aff cupreum,1,23,0,Flood Plain
+7/24/18,13:22:00,PT7,Human,PT,Onthophagus sp,3,23,0,Flood Plain
+7/24/18,13:50:00,PT11,Human,PT,Canthon aequinoctialis,4,23,0,Flood Plain
+7/24/18,13:50:00,PT11,Human,PT,Onthophagus sp,1,23,0,Flood Plain
+7/24/18,13:50:00,PT11,Human,PT,Sylvicanthon bridarollii,3,23,0,Flood Plain
+7/24/18,13:50:00,PT11,Human,PT,Deltochilum granulatum,3,23,0,Flood Plain
+7/24/18,13:50:00,PT11,Human,PT,Eurysternus vastiorum,1,23,0,Flood Plain
+7/24/18,13:35:00,PT9,Human,PT,Onthophagus sp,2,23,0,Flood Plain
+7/24/18,13:35:00,PT9,Human,PT,Eurysternus hypocrita,2,23,0,Flood Plain
+7/24/18,13:35:00,PT9,Human,PT,Canthidium sp E,1,23,0,Flood Plain
+7/24/18,13:35:00,PT9,Human,PT,Deltochilum granulatum,4,23,0,Flood Plain
+7/24/18,13:35:00,PT9,Human,PT,Sylvicanthon bridarollii,1,23,0,Flood Plain
+7/24/18,13:44:00,PT12,Human,PT,Sylvicanthon bridarollii,3,23,0,Flood Plain
+7/24/18,13:44:00,PT12,Human,PT,Canthon aequinoctialis,1,23,0,Flood Plain
+7/24/18,13:44:00,PT12,Human,PT,Scybalocanthon sp F,1,23,0,Flood Plain
+7/24/18,13:44:00,PT12,Human,PT,Scybalocanthon aereus,1,23,0,Flood Plain
+7/24/18,13:44:00,PT12,Human,PT,Coprophanaeus telamon,1,23,0,Flood Plain
+7/24/18,13:44:00,PT12,Human,PT,Oxysternon silenus,1,23,0,Flood Plain
+7/24/18,13:44:00,PT12,Human,PT,Dichotomius prietoi,1,23,0,Flood Plain
+7/24/18,13:44:00,PT12,Human,PT,Deltochilum peruanum,1,23,0,Flood Plain
+7/24/18,13:44:00,PT12,Human,PT,Deltochilum granulatum,3,23,0,Flood Plain
+7/24/18,13:44:00,PT12,Human,PT,Ateuchus connexus,3,23,0,Flood Plain
+7/23/18,16:07:00,PT2,Human,PT,Canthidium bicolor,3,23,0.1,Terra Firme
+7/23/18,16:07:00,PT2,Human,PT,Phanaeus chalcomelas,1,23,0.1,Terra Firme
+7/23/18,16:07:00,PT2,Human,PT,Phanaeus bispinus,1,23,0.1,Terra Firme
+7/23/18,16:07:00,PT2,Human,PT,Phanaeus cambeforti,2,23,0.1,Terra Firme
+7/23/18,16:07:00,PT2,Human,PT,Canthon aequinoctialis,1,23,0.1,Terra Firme
+7/23/18,16:07:00,PT2,Human,PT,Onthophagus sp,2,23,0.1,Terra Firme
+7/23/18,16:07:00,PT2,Human,PT,Eurysternus foedus,1,23,0.1,Terra Firme
+7/23/18,16:07:00,PT2,Human,PT,Dichotomius melzeri,1,23,0.1,Terra Firme
+7/23/18,16:07:00,PT2,Human,PT,Dichotomius worontzowi,1,23,0.1,Terra Firme
+7/23/18,16:07:00,PT2,Human,PT,Dichotomius ohausi,4,23,0.1,Terra Firme
+7/23/18,16:07:00,PT2,Human,PT,Dichotomius robustus,1,23,0.1,Terra Firme
+7/23/18,16:07:00,PT2,Human,PT,Phanaeus sp,1,23,0.1,Terra Firme
+7/23/18,16:17:00,AT1,Human,AT,Canthon sp aff quadriguttatus,1,23,0.1,Terra Firme
+7/23/18,16:07:00,AT2,Human,AT,Canthon sp aff quadriguttatus,1,23,0.1,Terra Firme
+7/23/18,16:07:00,AT2,Human,AT,Canthon sp aff angustatus,1,23,0.1,Terra Firme
+7/23/18,14:41:00,PT3,Human,PT,Dichotomius ohausi,1,23,0.1,Terra Firme
+7/23/18,14:41:00,PT3,Human,PT,Canthon luteicollis,1,23,0.1,Terra Firme
+7/23/18,14:41:00,PT3,Human,PT,Ateuchus sp C,1,23,0.1,Terra Firme
+7/23/18,15:57:00,AT6,Human,AT,Canthon sp aff quadriguttatus,1,23,0.1,Terra Firme
+7/23/18,15:57:00,AT6,Human,AT,Onthophagus sp,1,23,0.1,Terra Firme
+7/23/18,15:57:00,AT6,Human,AT,Canthon sp aff angustatus,1,23,0.1,Terra Firme
+7/23/18,14:47:00,PT5,Human,PT,Canthidium bicolor,2,23,0.1,Terra Firme
+7/23/18,14:47:00,PT5,Human,PT,Phanaeus cambeforti,1,23,0.1,Terra Firme
+7/23/18,15:57:00,PT6,Human,PT,Dichotomius melzeri,3,23,0.1,Terra Firme
+7/23/18,15:57:00,PT6,Human,PT,Dichotomius conicollis,1,23,0.1,Terra Firme
+7/23/18,15:57:00,PT6,Human,PT,Dichotomius mamillatus,4,23,0.1,Terra Firme
+7/23/18,15:57:00,PT6,Human,PT,Dichotomius batesi,1,23,0.1,Terra Firme
+7/23/18,15:57:00,PT6,Human,PT,Phanaeus cambeforti,2,23,0.1,Terra Firme
+7/23/18,15:57:00,PT6,Human,PT,Canthon sp aff angustatus,1,23,0.1,Terra Firme
+7/23/18,15:57:00,PT6,Human,PT,Canthidium sp aff cupreum,3,23,0.1,Terra Firme
+7/23/18,15:57:00,PT6,Human,PT,Ateuchus sp,1,23,0.1,Terra Firme
+7/23/18,15:57:00,PT6,Human,PT,Dichotomius worontzowi,2,23,0.1,Terra Firme
+7/23/18,15:57:00,PT6,Human,PT,Eurysternus wittmerorum,1,23,0.1,Terra Firme
+7/23/18,15:57:00,PT6,Human,PT,Eurysternus plebejus,1,23,0.1,Terra Firme
+7/23/18,15:57:00,PT6,Human,PT,No ID,3,23,0.1,Terra Firme
+7/24/18,15:03:00,PT6,Human,PT,Dichotomius melzeri,1,23,0,Terra Firme
+7/24/18,13:43:00,PT3,Human,PT,Dichotomius ohausi,1,23,0,Terra Firme
+7/24/18,15:14:00,PT2,Human,PT,Onthophagus xanthomerus,3,23,0,Terra Firme
+7/24/18,15:14:00,PT2,Human,PT,Dichotomius ohausi,1,23,0,Terra Firme
+7/24/18,15:14:00,PT2,Human,PT,Eurysternus sp nov B,1,23,0,Terra Firme
+7/24/18,15:14:00,PT2,Human,PT,Canthon sp aff quadriguttatus,2,23,0,Terra Firme
+7/24/18,15:20:00,PT1,Human,PT,Canthon sp aff angustatus,1,23,0,Terra Firme
+7/24/18,13:58:00,PT5,Human,PT,Dichotomius mamillatus,1,23,0,Terra Firme
+7/28/18,13:31:00,PT5,Human,PT,Onthophagus sp,3,0,0,Terra Firme
+7/28/18,13:31:00,PT5,Human,PT,Eurysternus hypocrita,1,0,0,Terra Firme
+7/28/18,13:31:00,PT5,Human,PT,Phanaeus chalcomelas,1,0,0,Terra Firme
+7/28/18,13:31:00,PT5,Human,PT,Dichotomius robustus,1,0,0,Terra Firme
+7/28/18,13:31:00,PT5,Human,PT,Dichotomius sp aff lucasi,2,0,0,Terra Firme
+7/28/18,13:31:00,PT5,Human,PT,Scybalocanthon aereus,1,0,0,Terra Firme
+7/28/18,13:31:00,PT5,Human,PT,Canthidium sp aff gerstaeckeri,1,0,0,Terra Firme
+7/28/18,13:40:00,PT4,Human,PT,Phanaeus cambeforti,1,0,0,Terra Firme
+7/28/18,13:40:00,PT4,Human,PT,Eurysternus hypocrita,1,0,0,Terra Firme
+7/28/18,13:40:00,PT4,Human,PT,Dichotomius ohausi,1,0,0,Terra Firme
+7/28/18,14:15:00,PT6,Human,PT,Oxysternon lautum,1,0,0,Terra Firme
+7/28/18,14:15:00,PT6,Human,PT,Dichotomius robustus,1,0,0,Terra Firme
+7/28/18,14:15:00,PT6,Human,PT,Canthon aequinoctialis,1,0,0,Terra Firme
+7/28/18,14:15:00,PT6,Human,PT,Onthophagus sp,1,0,0,Terra Firme
+7/28/18,14:15:00,PT6,Human,PT,Onthophagus xanthomerus,2,0,0,Terra Firme
+7/28/18,14:15:00,PT6,Human,PT,Canthidium sp D,1,0,0,Terra Firme
+7/28/18,14:15:00,PT6,Human,PT,Ateuchus sp,1,0,0,Terra Firme
+7/28/18,13:48:00,PT3,Human,PT,Dichotomius sp aff lucasi,1,0,0,Terra Firme
+7/28/18,13:48:00,PT3,Human,PT,Dichotomius ohausi,1,0,0,Terra Firme
+7/28/18,13:48:00,PT3,Human,PT,Onthophagus sp,2,0,0,Terra Firme
+7/28/18,13:48:00,PT3,Human,PT,Deltochilum granulatum,1,0,0,Terra Firme
+7/28/18,13:48:00,PT3,Human,PT,Ateuchus laevicollis,1,0,0,Terra Firme
+7/28/18,14:23:00,PT2,Human,PT,Eurysternus hypocrita,1,0,0,Terra Firme
+7/28/18,14:23:00,PT2,Human,PT,Onthophagus xanthomerus,2,0,0,Terra Firme
+7/28/18,14:23:00,PT2,Human,PT,Onthophagus sp,2,0,0,Terra Firme
+7/28/18,14:23:00,PT2,Human,PT,Canthidium sp D,1,0,0,Terra Firme
+7/28/18,14:23:00,PT2,Human,PT,Canthidium bicolor,1,0,0,Terra Firme
+7/28/18,14:23:00,PT2,Human,PT,Canthon sp aff angustatus,1,0,0,Terra Firme
+7/28/18,14:23:00,PT2,Human,PT,Eurysternus sp nov A,1,0,0,Terra Firme
+7/28/18,14:30:00,PT1,Human,PT,Dichotomius sp aff lucasi,2,0,0,Terra Firme
+7/28/18,14:30:00,PT1,Human,PT,Dichotomius robustus,1,0,0,Terra Firme
+7/28/18,14:30:00,PT1,Human,PT,Canthon aequinoctialis,1,0,0,Terra Firme
+7/28/18,14:30:00,PT1,Human,PT,Dichotomius conicollis,1,0,0,Terra Firme
+7/28/18,14:30:00,PT1,Human,PT,Dichotomius ohausi,1,0,0,Terra Firme
+7/28/18,14:30:00,PT1,Human,PT,Eurysternus hypocrita,2,0,0,Terra Firme
+7/28/18,14:30:00,PT1,Human,PT,Eurysternus wittmerorum,1,0,0,Terra Firme
+7/28/18,14:30:00,PT1,Human,PT,Onthophagus xanthomerus,1,0,0,Terra Firme
+7/28/18,14:30:00,PT1,Human,PT,Onthophagus sp,13,0,0,Terra Firme
+7/28/18,14:30:00,PT1,Human,PT,Canthon sp aff angustatus,1,0,0,Terra Firme
+7/28/18,14:30:00,PT1,Human,PT,Ateuchus sp E,1,0,0,Terra Firme
+7/28/18,14:30:00,PT1,Human,PT,Ateuchus sp D,3,0,0,Terra Firme
+7/29/18,12:45:00,PT5,Human,PT,Dichotomius ohausi,3,0,0,Terra Firme
+7/29/18,12:45:00,PT5,Human,PT,Onthophagus sp,1,0,0,Terra Firme
+7/29/18,12:45:00,PT5,Human,PT,Deltochilum granulatum,1,0,0,Terra Firme
+7/29/18,12:45:00,PT5,Human,PT,Canthidium sp aff gerstaeckeri,1,0,0,Terra Firme
+7/29/18,12:45:00,PT5,Human,PT,Ateuchus sp D,2,0,0,Terra Firme
+7/29/18,12:58:00,PT3,Human,PT,Dichotomius ohausi,1,0,0,Terra Firme
+7/29/18,12:45:00,AT5,Human,AT,Canthon sp aff quadriguttatus,1,0,0,Terra Firme
+7/29/18,13:35:00,PT2,Human,PT,Eurysternus hypocrita,1,0,0,Terra Firme
+7/29/18,13:35:00,PT2,Human,PT,Canthonella sp A,1,0,0,Terra Firme
+7/29/18,13:43:00,PT1,Human,PT,Canthon aequinoctialis,1,0,0,Terra Firme
+7/29/18,13:43:00,PT1,Human,PT,Dichotomius sp aff lucasi,2,0,0,Terra Firme
+7/29/18,13:43:00,PT1,Human,PT,Oxysternon lautum,1,0,0,Terra Firme
+7/29/18,13:43:00,PT1,Human,PT,Canthon luteicollis,1,0,0,Terra Firme
+7/29/18,13:43:00,PT1,Human,PT,Onthophagus sp,7,0,0,Terra Firme
+7/29/18,13:43:00,PT1,Human,PT,Canthonella sp A,1,0,0,Terra Firme
+7/29/18,13:43:00,PT1,Human,PT,Ateuchus sp D,2,0,0,Terra Firme
+7/29/18,13:30:00,PT6,Human,PT,Dichotomius sp aff lucasi,1,0,0,Terra Firme
+7/29/18,13:30:00,PT6,Human,PT,Canthon aequinoctialis,1,0,0,Terra Firme
+7/29/18,13:30:00,PT6,Human,PT,Eurysternus hypocrita,1,0,0,Terra Firme
+7/29/18,13:30:00,PT6,Human,PT,Ateuchus sp,1,0,0,Terra Firme
+7/29/18,13:30:00,PT6,Human,PT,Onthophagus sp,8,0,0,Terra Firme
+7/29/18,12:51:00,PT4,Human,PT,Canthidium sp aff cupreum,2,0,0,Terra Firme
+7/29/18,12:51:00,PT4,Human,PT,Eurysternus hypocrita,4,0,0,Terra Firme
+7/29/18,12:51:00,PT4,Human,PT,Ateuchus sp,1,0,0,Terra Firme
+7/29/18,14:35:00,AT12,Human,AT,Canthon brunneus,1,0,0,Flood plain
+7/29/18,14:49:00,AT10,Human,AT,Canthon brunneus,1,0,0,Flood plain
+7/29/18,14:49:00,AT10,Human,AT,Canthon sp aff quadriguttatus,1,0,0,Flood plain
+7/29/18,14:49:00,AT10,Human,AT,Canthon subhyalinus,1,0,0,Flood plain
+7/29/18,14:42:00,AT11,Human,AT,Canthon subhyalinus,3,0,0,Flood plain
+7/29/18,14:26:00,AT9,Human,AT,Canthon subhyalinus,1,0,0,Flood plain
+7/29/18,14:26:00,AT9,Human,AT,Canthon brunneus,2,0,0,Flood plain
+7/29/18,14:42:00,PT11,Human,PT,Onthophagus sp,17,0,0,Flood plain
+7/29/18,14:42:00,PT11,Human,PT,Canthon aequinoctialis,1,0,0,Flood plain
+7/29/18,14:42:00,PT11,Human,PT,Sylvicanthon bridarollii,1,0,0,Flood plain
+7/29/18,14:42:00,PT11,Human,PT,Dichotomius robustus,1,0,0,Flood plain
+7/29/18,14:42:00,PT11,Human,PT,Ateuchus sp H,1,0,0,Flood plain
+7/29/18,14:42:00,PT11,Human,PT,Scybalocanthon sp F,1,0,0,Flood plain
+7/29/18,14:42:00,PT11,Human,PT,Eurysternus foedus,2,0,0,Flood plain
+7/29/18,14:42:00,PT11,Human,PT,Onthophagus xanthomerus,3,0,0,Flood plain
+7/29/18,14:42:00,PT11,Human,PT,Onthophagus rhinophyllus,2,0,0,Flood plain
+7/29/18,14:42:00,PT11,Human,PT,Eurysternus sp nov A,2,0,0,Flood plain
+7/29/18,14:42:00,PT11,Human,PT,Eurysternus vastiorum,8,0,0,Flood plain
+7/29/18,14:26:00,PT9,Human,PT,Ateuchus sp H,3,0,0,Flood plain
+7/29/18,14:26:00,PT9,Human,PT,Eurysternus foedus,1,0,0,Flood plain
+7/29/18,14:26:00,PT9,Human,PT,Eurysternus caribaeus,1,0,0,Flood plain
+7/29/18,14:26:00,PT9,Human,PT,Onthophagus sp,4,0,0,Flood plain
+7/29/18,14:26:00,PT9,Human,PT,Scybalocanthon sp F,2,0,0,Flood plain
+7/29/18,14:26:00,PT9,Human,PT,Eurysternus sp nov A,2,0,0,Flood plain
+7/29/18,14:26:00,PT9,Human,PT,Eurysternus vastiorum,4,0,0,Flood plain
+7/29/18,14:35:00,PT12,Human,PT,Eurysternus caribaeus,3,0,0,Flood plain
+7/29/18,14:35:00,PT12,Human,PT,Eurysternus hypocrita,1,0,0,Flood plain
+7/29/18,14:35:00,PT12,Human,PT,Dichotomius robustus,1,0,0,Flood plain
+7/29/18,14:35:00,PT12,Human,PT,Sylvicanthon bridarollii,1,0,0,Flood plain
+7/29/18,14:35:00,PT12,Human,PT,Ateuchus sp H,1,0,0,Flood plain
+7/29/18,14:35:00,PT12,Human,PT,Eurysternus vastiorum,7,0,0,Flood plain
+7/29/18,14:35:00,PT12,Human,PT,Onthophagus sp,20,0,0,Flood plain
+7/29/18,14:49:00,PT10,Human,PT,Canthidium sp aff cupreum,1,0,0,Flood plain
+7/29/18,14:49:00,PT10,Human,PT,Onthophagus rhinophyllus,3,0,0,Flood plain
+7/29/18,14:49:00,PT10,Human,PT,Onthophagus xanthomerus,4,0,0,Flood plain
+7/29/18,14:49:00,PT10,Human,PT,Onthophagus sp,6,0,0,Flood plain
+7/29/18,14:49:00,PT10,Human,PT,Eurysternus caribaeus,1,0,0,Flood plain
+7/29/18,14:49:00,PT10,Human,PT,Deltochilum granulatum,1,0,0,Flood plain
+7/29/18,14:49:00,PT10,Human,PT,Eurysternus sp nov A,2,0,0,Flood plain
+7/29/18,14:49:00,PT10,Human,PT,Eurysternus vastiorum,7,0,0,Flood plain
+7/29/18,14:49:00,PT10,Human,PT,Eurysternus wittmerorum,1,0,0,Flood plain
+7/29/18,14:49:00,PT10,Human,PT,Eurysternus sp,6,0,0,Flood plain
+7/29/18,14:15:00,PT7,Human,PT,Eurysternus hypocrita,1,0,0,Flood plain
+7/29/18,14:15:00,PT7,Human,PT,Sylvicanthon bridarollii,3,0,0,Flood plain
+7/29/18,14:15:00,PT7,Human,PT,Dichotomius sp aff lucasi,3,0,0,Flood plain
+7/29/18,14:15:00,PT7,Human,PT,Onthophagus xanthomerus,1,0,0,Flood plain
+7/29/18,14:15:00,PT7,Human,PT,Onthophagus rhinophyllus,1,0,0,Flood plain
+7/29/18,14:15:00,PT7,Human,PT,Onthophagus sp,6,0,0,Flood plain
+7/29/18,14:15:00,PT7,Human,PT,Canthidium sp aff gerstaeckeri,1,0,0,Flood plain
+7/29/18,14:15:00,PT7,Human,PT,Eurysternus vastiorum,2,0,0,Flood plain
+7/30/18,13:31:00,AT9,Human,AT,Canthon subhyalinus,2,0,0,Flood plain
+7/30/18,13:31:00,AT9,Human,AT,Canthon rubrescens,1,0,0,Flood plain
+7/30/18,13:52:00,AT10,Human,AT,Canthon subhyalinus,2,0,0,Flood plain
+7/30/18,13:52:00,AT10,Human,AT,Canthon sp aff angustatus,1,0,0,Flood plain
+7/30/18,13:46:00,AT11,Human,AT,Canthon subhyalinus,3,0,0,Flood plain
+7/30/18,13:46:00,AT11,Human,AT,Canthon sp,2,0,0,Flood plain
+7/30/18,13:39:00,PT12,Human,PT,Oxysternon silenus,1,0,0,Flood plain
+7/30/18,13:39:00,PT12,Human,PT,Eurysternus foedus,2,0,0,Flood plain
+7/30/18,13:39:00,PT12,Human,PT,Ateuchus sp H,2,0,0,Flood plain
+7/30/18,13:39:00,PT12,Human,PT,Onthophagus xanthomerus,1,0,0,Flood plain
+7/30/18,13:39:00,PT12,Human,PT,Eurysternus vastiorum,1,0,0,Flood plain
+7/30/18,13:39:00,PT12,Human,PT,Eurysternus sp nov A,1,0,0,Flood plain
+7/30/18,13:46:00,PT11,Human,PT,Canthidium sp aff cupreum,1,0,0,Flood plain
+7/30/18,13:46:00,PT11,Human,PT,Dichotomius sp aff lucasi,2,0,0,Flood plain
+7/30/18,13:46:00,PT11,Human,PT,Onthophagus sp,5,0,0,Flood plain
+7/30/18,13:46:00,PT11,Human,PT,Deltochilum granulatum,1,0,0,Flood plain
+7/30/18,13:46:00,PT11,Human,PT,Scybalocanthon sp K,1,0,0,Flood plain
+7/30/18,13:46:00,PT11,Human,PT,Canthidium sp aff gerstaeckeri,1,0,0,Flood plain
+7/30/18,13:46:00,PT11,Human,PT,Canthidium cf onitoides,1,0,0,Flood plain
+7/30/18,13:46:00,PT11,Human,PT,Eurysternus sp nov A,2,0,0,Flood plain
+7/30/18,13:46:00,PT11,Human,PT,Eurysternus vastiorum,1,0,0,Flood plain
+7/30/18,13:21:00,PT7,Human,PT,Oxysternon silenus,1,0,0,Flood plain
+7/30/18,13:21:00,PT7,Human,PT,Canthidium cf basipunctatum,1,0,0,Flood plain
+7/30/18,13:31:00,PT9,Human,PT,Onthophagus sp,2,0,0,Flood plain
+7/30/18,13:31:00,PT9,Human,PT,Onthophagus xanthomerus,1,0,0,Flood plain
+7/30/18,13:31:00,PT9,Human,PT,Scybalocanthon sp K,1,0,0,Flood plain
+7/30/18,13:31:00,PT9,Human,PT,Scybalocanthon aereus,1,0,0,Flood plain
+7/30/18,13:31:00,PT9,Human,PT,Eurysternus sp nov A,2,0,0,Flood plain
+7/30/18,13:31:00,PT9,Human,PT,Eurysternus vastiorum,3,0,0,Flood plain
+7/30/18,13:31:00,PT9,Human,PT,Eurysternus sp,1,0,0,Flood plain
+7/30/18,13:52:00,PT10,Human,PT,Eurysternus hamaticollis,1,0,0,Flood plain
+7/30/18,13:52:00,PT10,Human,PT,Eurysternus hypocrita,3,0,0,Flood plain
+7/30/18,13:52:00,PT10,Human,PT,Eurysternus wittmerorum,1,0,0,Flood plain
+7/30/18,13:52:00,PT10,Human,PT,Canthon aequinoctialis,1,0,0,Flood plain
+7/30/18,13:52:00,PT10,Human,PT,Eurysternus caribaeus,2,0,0,Flood plain
+7/30/18,13:52:00,PT10,Human,PT,Onthophagus rhinophyllus,1,0,0,Flood plain
+7/30/18,13:52:00,PT10,Human,PT,Onthophagus xanthomerus,2,0,0,Flood plain
+7/30/18,13:52:00,PT10,Human,PT,Onthophagus sp,17,0,0,Flood plain
+7/30/18,13:52:00,PT10,Human,PT,Uroxys sp H,1,0,0,Flood plain
+7/30/18,13:52:00,PT10,Human,PT,Eurysternus vastiorum,7,0,0,Flood plain
+7/30/18,13:52:00,PT10,Human,PT,Eurysternus sp,5,0,0,Flood plain
+8/4/18,12:56:00,PT7,Human,PT,Onthophagus sp,1,0.1,0.04,Flood plain
+8/4/18,12:56:00,PT7,Human,PT,Onthophagus rhinophyllus,1,0.1,0.04,Flood plain
+8/4/18,12:56:00,PT7,Human,PT,Onthophagus xanthomerus,1,0.1,0.04,Flood plain
+8/4/18,12:56:00,PT7,Human,PT,Canthon brunneus,1,0.1,0.04,Flood plain
+8/4/18,12:56:00,PT7,Human,PT,Dichotomius conicollis,1,0.1,0.04,Flood plain
+8/4/18,13:32:00,PT11,Human,PT,Canthon aequinoctialis,3,0.1,0.04,Flood plain
+8/4/18,13:32:00,PT11,Human,PT,Sylvicanthon bridarollii,3,0.1,0.04,Flood plain
+8/4/18,13:32:00,PT11,Human,PT,Onthophagus sp,2,0.1,0.04,Flood plain
+8/4/18,13:06:00,PT8,Human,PT,Deltochilum granulatum,1,0.1,0.04,Flood plain
+8/4/18,13:06:00,PT8,Human,PT,Canthon brunneus,1,0.1,0.04,Flood plain
+8/4/18,13:17:00,PT9,Human,PT,Sylvicanthon bridarollii,1,0.1,0.04,Flood plain
+8/4/18,13:17:00,PT9,Human,PT,Eurysternus foedus,1,0.1,0.04,Flood plain
+8/4/18,13:17:00,PT9,Human,PT,Eurysternus hypocrita,2,0.1,0.04,Flood plain
+8/4/18,13:17:00,PT9,Human,PT,Ateuchus sp H,1,0.1,0.04,Flood plain
+8/4/18,13:17:00,PT9,Human,PT,Scybalocanthon aereus,1,0.1,0.04,Flood plain
+8/4/18,13:17:00,PT9,Human,PT,Scybalocanthon sp,1,0.1,0.04,Flood plain
+8/5/18,11:04:00,PT11,Human,PT,Canthidium sp E,1,0.1,3.4,Flood plain
+8/5/18,10:39:00,AT7,Human,AT,Canthon subhyalinus,1,0.1,3.4,Flood plain
+8/5/18,10:54:00,AT9,Human,AT,Canthon subhyalinus,1,0.1,3.4,Flood plain
+8/13/18,9:15:00,PT11,Human,PT,Canthon aequinoctialis,11,0,,Flood plain
+8/13/18,9:15:00,PT11,Human,PT,Sylvicanthon bridarollii,23,0,,Flood plain
+8/13/18,9:15:00,PT11,Human,PT,Onthophagus xanthomerus,1,0,,Flood plain
+8/13/18,9:15:00,PT11,Human,PT,Onthophagus sp,17,0,,Flood plain
+8/13/18,9:15:00,PT11,Human,PT,Deltochilum granulatum,1,0,,Flood plain
+8/13/18,9:15:00,PT11,Human,PT,Canthon luteicollis,1,0,,Flood plain
+8/13/18,9:15:00,PT11,Human,PT,Scybalocanthon aereus,1,0,,Flood plain
+8/13/18,9:15:00,PT11,Human,PT,Scybalocanthon zischkai,2,0,,Flood plain
+8/13/18,9:15:00,PT11,Human,PT,Eurysternus vastiorum,3,0,,Flood plain
+8/13/18,9:15:00,PT11,Human,PT,Eurysternus sp,1,0,,Flood plain
+8/13/18,9:15:00,PT11,Human,PT,Eurysternus caribaeus,1,0,,Flood plain
+8/13/18,9:08:00,PT12,Human,PT,Onthophagus sp,4,0,,Flood plain
+8/13/18,9:08:00,PT12,Human,PT,Canthon aequinoctialis,2,0,,Flood plain
+8/13/18,9:08:00,PT12,Human,PT,Sylvicanthon bridarollii,6,0,,Flood plain
+8/13/18,9:08:00,PT12,Human,PT,Dichotomius ohausi,1,0,,Flood plain
+8/13/18,9:08:00,PT12,Human,PT,Eurysternus caribaeus,1,0,,Flood plain
+8/13/18,9:08:00,PT12,Human,PT,Eurysternus vastiorum,1,0,,Flood plain
+8/13/18,9:08:00,PT12,Human,PT,Deltochilum granulatum,1,0,,Flood plain
+8/13/18,9:08:00,PT12,Human,PT,Scybalocanthon sp K,1,0,,Flood plain
+8/13/18,9:20:00,PT10,Human,PT,Onthophagus sp,3,0,,Flood plain
+8/13/18,9:20:00,PT10,Human,PT,Deltochilum granulatum,1,0,,Flood plain
+8/13/18,9:20:00,PT10,Human,PT,Eurysternus vastiorum,1,0,,Flood plain
+8/13/18,9:20:00,PT10,Human,PT,Ateuchus sp D,1,0,,Flood plain
+8/13/18,8:50:00,PT7,Human,PT,Sylvicanthon bridarollii,5,0,,Flood plain
+8/13/18,8:50:00,PT7,Human,PT,Onthophagus sp,3,0,,Flood plain
+8/13/18,8:50:00,PT7,Human,PT,Phanaeus cambeforti,1,0,,Flood plain
+8/13/18,8:50:00,PT7,Human,PT,Dichotomius sp aff lucasi,1,0,,Flood plain
+8/13/18,8:50:00,PT7,Human,PT,Dichotomius lucasi,1,0,,Flood plain
+8/13/18,8:50:00,PT7,Human,PT,Eurysternus caribaeus,2,0,,Flood plain
+8/13/18,8:50:00,PT7,Human,PT,Scybalocanthon aereus,1,0,,Flood plain
+8/13/18,9:00:00,PT8,Human,PT,Canthidium sp aff gerstaeckeri,1,0,,Flood plain
+8/13/18,9:00:00,PT8,Human,PT,Sylvicanthon bridarollii,4,0,,Flood plain
+8/13/18,9:00:00,PT8,Human,PT,Canthon quinquemaculatus,1,0,,Flood plain
+8/13/18,9:00:00,PT8,Human,PT,Onthophagus sp,3,0,,Flood plain
+8/13/18,9:00:00,PT8,Human,PT,Oxysternon spiniferum,1,0,,Flood plain
+8/13/18,9:00:00,PT8,Human,PT,Oxysternon silenus,1,0,,Flood plain
+8/13/18,9:00:00,PT8,Human,PT,Deltochilum granulatum,3,0,,Flood plain
+8/13/18,9:00:00,PT8,Human,PT,Deltochilum sp,1,0,,Flood plain
+8/13/18,9:00:00,PT8,Human,PT,Scybalocanthon sp F,1,0,,Flood plain
+8/13/18,9:15:00,AT11,Human,AT,Canthon subhyalinus,1,0,,Flood plain
+8/13/18,9:20:00,AT10,Human,AT,Canthon sp aff angustatus,1,0,,Flood plain
+8/13/18,9:16:00,AT9,Human,AT,Canthon sp aff angustatus,1,0,,Flood plain
+8/13/18,9:00:00,AT8,Human,AT,Canthon subhyalinus,2,0,,Flood plain
+8/13/18,8:50:00,AT7,Human,AT,Canthon sp aff angustatus,1,0,,Flood plain
+8/13/18,9:08:00,AT12,Human,AT,Canthon subhyalinus,1,0,,Flood plain
+8/14/18,9:39:00,PT7,Human,PT,Canthon aequinoctialis,1,0,0,Flood plain
+8/14/18,9:39:00,PT7,Human,PT,Sylvicanthon bridarollii,2,0,0,Flood plain
+8/14/18,9:39:00,PT7,Human,PT,Onthophagus sp,1,0,0,Flood plain
+8/14/18,9:39:00,PT7,Human,PT,Eurysternus sp,1,0,0,Flood plain
+8/14/18,9:39:00,PT7,Human,PT,Eurysternus vastiorum,1,0,0,Flood plain
+8/14/18,9:39:00,AT7,Human,AT,Canthon subhyalinus,1,0,0,Flood plain
+8/14/18,9:48:00,PT8,Human,PT,Sylvicanthon bridarollii,3,0,0,Flood plain
+8/14/18,9:48:00,PT8,Human,PT,Oxysternon silenus,1,0,0,Flood plain
+8/14/18,9:48:00,PT8,Human,PT,Scybalocanthon sp K,1,0,0,Flood plain
+8/14/18,9:48:00,PT8,Human,PT,Eurysternus vastiorum,1,0,0,Flood plain
+8/14/18,9:48:00,AT8,Human,AT,Canthon femoralis bimaculatus,1,0,0,Flood plain
+8/14/18,9:56:00,PT9,Human,PT,Canthon aequinoctialis,4,0,0,Flood plain
+8/14/18,9:56:00,PT9,Human,PT,Canthidium sp aff cupreum,1,0,0,Flood plain
+8/14/18,9:56:00,PT9,Human,PT,Dichotomius robustus,1,0,0,Flood plain
+8/14/18,9:56:00,PT9,Human,PT,Sylvicanthon bridarollii,19,0,0,Flood plain
+8/14/18,9:56:00,PT9,Human,PT,Onthophagus rhinophyllus,1,0,0,Flood plain
+8/14/18,9:56:00,PT9,Human,PT,Onthophagus sp,14,0,0,Flood plain
+8/14/18,9:56:00,PT9,Human,PT,Eurysternus caribaeus,1,0,0,Flood plain
+8/14/18,9:56:00,PT9,Human,PT,Scybalocanthon sp K,1,0,0,Flood plain
+8/14/18,9:56:00,PT9,Human,PT,Scybalocanthon sp F,2,0,0,Flood plain
+8/14/18,9:56:00,PT9,Human,PT,Scybalocanthon aereus,4,0,0,Flood plain
+8/14/18,9:56:00,PT9,Human,PT,Canthonide sp,1,0,0,Flood plain
+8/14/18,9:56:00,PT9,Human,PT,Eurysternus vastiorum,4,0,0,Flood plain
+8/14/18,9:56:00,PT9,Human,PT,Eurysternus sp nov A,1,0,0,Flood plain
+8/14/18,10:35:00,PT10,Human,PT,Onthophagus xanthomerus,2,0,0,Flood plain
+8/14/18,10:35:00,PT10,Human,PT,Dichotomius robustus,1,0,0,Flood plain
+8/14/18,10:35:00,PT10,Human,PT,Dichotomius sp aff lucasi,1,0,0,Flood plain
+8/14/18,10:35:00,PT10,Human,PT,Eurysternus vastiorum,1,0,0,Flood plain
+8/14/18,10:24:00,PT11,Human,PT,Canthon fulgidus,1,0,0,Flood plain
+8/14/18,10:24:00,PT11,Human,PT,Canthon aequinoctialis,5,0,0,Flood plain
+8/14/18,10:24:00,PT11,Human,PT,Sylvicanthon bridarollii,5,0,0,Flood plain
+8/14/18,10:24:00,PT11,Human,PT,Eurysternus caribaeus,1,0,0,Flood plain
+8/14/18,10:24:00,PT11,Human,PT,Eurysternus sp,1,0,0,Flood plain
+8/14/18,10:24:00,PT11,Human,PT,Eurysternus vastiorum,1,0,0,Flood plain
+8/14/18,10:24:00,PT11,Human,PT,Eurysternus sp nov A,1,0,0,Flood plain
+8/14/18,10:24:00,PT11,Human,PT,Onthophagus xanthomerus,2,0,0,Flood plain
+8/14/18,10:24:00,AT11,Human,AT,Canthon femoralis bimaculatus,1,0,0,Flood plain
+8/14/18,10:24:00,AT11,Human,AT,Canthon sp aff quadriguttatus,1,0,0,Flood plain
+8/14/18,10:24:00,AT11,Human,AT,Canthon subhyalinus,8,0,0,Flood plain
+8/14/18,10:17:00,PT12,Human,PT,Canthon aequinoctialis,3,0,0,Flood plain
+8/14/18,10:17:00,PT12,Human,PT,Deltochilum granulatum,2,0,0,Flood plain
+8/14/18,10:17:00,PT12,Human,PT,Ateuchus sp,1,0,0,Flood plain
+8/14/18,10:17:00,PT12,Human,PT,Eurysternus vastiorum,1,0,0,Flood plain
+8/14/18,10:17:00,PT12,Human,PT,Eurysternus sp,1,0,0,Flood plain
